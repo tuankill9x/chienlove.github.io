@@ -1,8 +1,8 @@
-Origin: chienlove
+Origin: chienlove repo
 Label: chienlove
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: tweak việt hoá
+Description: repo chienlove
