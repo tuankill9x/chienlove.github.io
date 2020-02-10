@@ -1,0 +1,15 @@
+Package: net.storeios.screenrecorderforedaudio
+Name: Screenrecorderforedaudio
+Version: 1.0-3
+Architecture: iphoneos-arm
+Description: fix lỗi mất âm thanh hệ thống
+Depends: mobilesubstrate
+Homepage: https://chienlove.github.io
+Depiction: http://www.saurik.com/id/7
+Maintainer: app@storeios.net
+Author: Kiran Patil
+Sponsor: chienlove <http://storeios.net/>
+Section: Tweak VH
+MD5sum: 260032e5f293a249fb33f20369c55cf0
+SHA1: 614eea4a4d8cdfb0903958306a34fc3f51fccb2b
+SHA256: a8f0b081bb50a105d66d7fcb6ab8a5e2a8bd6a51c9f742db50e698260a9f2e2e
