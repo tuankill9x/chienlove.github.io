@@ -11,7 +11,7 @@ Section: Tweak VH
 Depiction: http://chienlove.github.io/description.html?id=screenrecorderforedaudio
 Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
 Size: 32292
-Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.psd
+Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
 MD5sum: 260032e5f293a249fb33f20369c55cf0
 SHA1: 1c08df9cdb800f5579aef386e308f3f485cd5442
 SHA256: b49ad0b355ed7216007e71c09d1037e8895912622f2adb20652baf0e2369f433
