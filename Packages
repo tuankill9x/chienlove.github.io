@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: fix lỗi mất âm thanh hệ thống
 Depends: mobilesubstrate
 Homepage: https://chienlove.github.io
-Depiction: http://www.saurik.com/id/7
+Depiction: http://chienlove.github.io/desciption.html?id=net.storeios.screenrecorderforedaudio
 Maintainer: app@storeios.net
 Author: Kiran Patil
 Sponsor: chienlove <http://storeios.net/>
