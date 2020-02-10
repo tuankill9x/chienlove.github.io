@@ -12,9 +12,9 @@ Depiction: http://chienlove.github.io/description.html?id=screenrecorderforedaud
 Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
 Size: 32292
 Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
-MD5sum: 260032e5f293a249fb33f20369c55cf0
-SHA1: 1c08df9cdb800f5579aef386e308f3f485cd5442
-SHA256: b49ad0b355ed7216007e71c09d1037e8895912622f2adb20652baf0e2369f433
+MD5sum: 05b7c4e4d737498c6a89a521c5e615b8
+SHA1: 0633f9109ecc6151c867f0914308a13875251e72
+SHA256: d6c6b69caf3a44e83fb57414fcf34253cc9cb66b2768bd2d8f6f2d0d0ceb0e88
 
 
 Package: net.storeios.ultrasound
