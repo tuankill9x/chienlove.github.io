@@ -23,7 +23,7 @@ Version: 1.2.9
 Architecture: iphoneos-arm
 Description: Thiết kế lại biểu tượng âm lượng
 Depends: mobilesubstrate, (>= 11.0), preferenceloader
-Install-Size: 32.292
+Install-Size: 323.318
 Maintainer: app@storeios.net
 Author: Ayden Panhuyzen
 Section: Tweaks
