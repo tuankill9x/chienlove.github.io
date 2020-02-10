@@ -2600,6 +2600,7 @@
 						width: 100%;
 					}
 
+
 						ul.actions li:first-child {
 							padding-top: 0;
 						}
@@ -3799,3 +3800,6 @@
 			}
 
 		}
+.fab > .label {
+    display: none;
+}

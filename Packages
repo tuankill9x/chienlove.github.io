@@ -11,22 +11,26 @@ Section: Tweak VH
 Depiction: http://chienlove.github.io/description.html?id=screenrecorderforedaudio
 Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
 Size: 32292
+Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.psd
 MD5sum: 260032e5f293a249fb33f20369c55cf0
 SHA1: 1c08df9cdb800f5579aef386e308f3f485cd5442
 SHA256: b49ad0b355ed7216007e71c09d1037e8895912622f2adb20652baf0e2369f433
 
-Package: com.tqm-mos.boxtimeweather
-Name: Box Time - Weather by TQM
-Version: 0.2
+
+Package: net.storeios.ultrasound
+Name: UltraSound
+Version: 1.2.9
 Architecture: iphoneos-arm
-Description: XenHTML Widget by @tqmmos ( Minh hí )
-Maintainer: @tqmmos <anhminh311105@gmail.com>
-Author: @tqmmos <anhminh311105@gmail.com>
-Section: Iwidgets
-tag: cydia::paid
-Depiction: http://chienlove.github.io/description.html?id=com.tqm-mos.boxtimeweather
-Filename: ./debs/com.tqm-mos.boxtimeweather_0.2_iphoneos-arm.deb
-Size: 14813028
-MD5sum: a143cb38222b421d6b18f5ec7045799d
-SHA1: ad0f14d5e2a0c535b4b3027b17da9fd409ebea63
-SHA256: fef9c37915d2240194039ff060d23d3ac7db703aca97628740f8272ac98644f5
+Description: Thiết kế lại biểu tượng âm lượng
+Depends: mobilesubstrate, (>= 11.0), preferenceloader
+Install-Size: 32.292
+Maintainer: app@storeios.net
+Author: Ayden Panhuyzen
+Section: Tweaks
+Depiction: http://chienlove.github.io/description.html?id=net.storeios.ultrasound
+Filename: ./debs/net.storeios.ultrasound_1.2.9_iphoneos-arm.deb
+Size: 323.318
+Icon: file:///Library/PreferenceBundles/UltrasoundSetting.bundle/icon@2x.png
+MD5sum: bc1010b0670c3623744bc0502d0d1781
+SHA1: 992d234811739ea0a23c27435d589747b7720050
+SHA256: af207590a3c92c7b9c5cf6f4bc51710677d78377551ec4b0ab2487d8601db94a
