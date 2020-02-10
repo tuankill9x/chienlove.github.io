@@ -30,7 +30,7 @@ Section: Tweaks
 Depiction: http://chienlove.github.io/description.html?id=net.storeios.ultrasound
 Filename: ./debs/net.storeios.ultrasound_1.2.9_iphoneos-arm.deb
 Size: 323.318
-Icon: file:///Library/PreferenceBundles/UltrasoundSetting.bundle/icon@2x.png
+Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
 MD5sum: bc1010b0670c3623744bc0502d0d1781
 SHA1: 992d234811739ea0a23c27435d589747b7720050
 SHA256: af207590a3c92c7b9c5cf6f4bc51710677d78377551ec4b0ab2487d8601db94a
