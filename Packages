@@ -7,15 +7,14 @@ Depends: mobilesubstrate
 Installed-Size: 32.280
 Maintainer: app@storeios.net
 Author: Kiran Patil
-Section: Tweak VH
+Section: Tweaks
 Depiction: http://chienlove.github.io/description.html?id=screenrecorderforedaudio
 Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
-Size: 32292
+Size: 32280
 Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
 MD5sum: 05b7c4e4d737498c6a89a521c5e615b8
 SHA1: 0633f9109ecc6151c867f0914308a13875251e72
 SHA256: d6c6b69caf3a44e83fb57414fcf34253cc9cb66b2768bd2d8f6f2d0d0ceb0e88
-
 
 Package: net.storeios.ultrasound
 Name: UltraSound
@@ -23,13 +22,12 @@ Version: 1.2.9
 Architecture: iphoneos-arm
 Description: Thiết kế lại biểu tượng âm lượng
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Installed-Size: 323.318
 Maintainer: app@storeios.net
 Author: Ayden Panhuyzen
 Section: Tweaks
 Depiction: http://chienlove.github.io/description.html?id=net.storeios.ultrasound
 Filename: ./debs/net.storeios.ultrasound_1.2.9_iphoneos-arm.deb
-Size: 323.318
+Size: 323318
 Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
 MD5sum: bc1010b0670c3623744bc0502d0d1781
 SHA1: 992d234811739ea0a23c27435d589747b7720050
