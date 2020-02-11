@@ -4,7 +4,7 @@ Version: 1.0-3
 Architecture: iphoneos-arm
 Description: fix lỗi mất âm thanh hệ thống
 Depends: mobilesubstrate
-Installed-Size: 32.292
+Installed-Size: 32.280
 Maintainer: app@storeios.net
 Author: Kiran Patil
 Section: Tweak VH
