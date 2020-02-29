@@ -39,7 +39,7 @@ Version: 1.0.2
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Installed-Size: 1912
+Installed-Size: 364.742
 Author: LaughingQuoll
 Maintainer: LaughingQuoll
 Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
