@@ -39,14 +39,13 @@ Version: 1.0.2
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Installed-Size: 364.742
 Author: LaughingQuoll
 Maintainer: LaughingQuoll
 Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
 Depiction: http://chienlove.github.io/description.html?id=net.storeios.prysm
 Filename: ./debs/net.storeios.prysm_1.0.2_iphoneos-arm.deb
-Installed-Size: 364.742
-MD5sum: 69bcc06b27f3df8c2134a9df41a55a3f
-SHA1: ebff27f23e95e8552d0729cfb8d696acd2220da9
-SHA256: 8244273988ddc548aa0a8b352672ab005975a101fb8a5cf12c176c0595db37e2
-Size: 364.742
+Installed-Size: 364.744
+MD5sum: dba3488c28637bd0bbab501cfdb93518
+SHA1: c6fe56784cd12f9ad89e55e2863523e25ca3ae49
+SHA256: e4b5ffea89b7664806af5b4b68b80c1c6e60cb0a2179567f5360b31d88fefb65
+Size: 364744
