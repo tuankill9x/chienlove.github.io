@@ -32,3 +32,21 @@ Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
 MD5sum: bc1010b0670c3623744bc0502d0d1781
 SHA1: 992d234811739ea0a23c27435d589747b7720050
 SHA256: af207590a3c92c7b9c5cf6f4bc51710677d78377551ec4b0ab2487d8601db94a
+
+Package: net.storeios.prysm
+Name: Prysm
+Version: 1.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Installed-Size: 1912
+Author: LaughingQuoll
+Maintainer: LaughingQuoll
+Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
+Depiction: http://chienlove.github.io/description.html?id=net.storeios.prysm
+Filename: ./debs/net.storeios.prysm_1.0.2_iphoneos-arm.deb
+Installed-Size: 364.742
+MD5sum: 69bcc06b27f3df8c2134a9df41a55a3f
+SHA1: ebff27f23e95e8552d0729cfb8d696acd2220da9
+SHA256: 8244273988ddc548aa0a8b352672ab005975a101fb8a5cf12c176c0595db37e2
+Size: 364.742
