@@ -1,51 +1,51 @@
-Package: net.storeios.screenrecorderforedaudio
-Name: ScreenRecorderForedAudio
-Version: 1.0-3
-Architecture: iphoneos-arm
-Description: fix lỗi mất âm thanh hệ thống
-Depends: mobilesubstrate
-Installed-Size: 32.280
-Maintainer: app@storeios.net
-Author: Kiran Patil
-Section: Tweaks
-Depiction: http://chienlove.github.io/description.html?id=screenrecorderforedaudio
-Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
-Size: 32280
-Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
-MD5sum: 05b7c4e4d737498c6a89a521c5e615b8
-SHA1: 0633f9109ecc6151c867f0914308a13875251e72
-SHA256: d6c6b69caf3a44e83fb57414fcf34253cc9cb66b2768bd2d8f6f2d0d0ceb0e88
-
-Package: net.storeios.ultrasound
-Name: UltraSound
-Version: 1.2.9
-Architecture: iphoneos-arm
-Description: Thiết kế lại biểu tượng âm lượng
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Maintainer: app@storeios.net
-Author: Ayden Panhuyzen
-Section: Tweaks
-Depiction: http://chienlove.github.io/description.html?id=net.storeios.ultrasound
-Filename: ./debs/net.storeios.ultrasound_1.2.9_iphoneos-arm.deb
-Size: 323318
-Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
-MD5sum: bc1010b0670c3623744bc0502d0d1781
-SHA1: 992d234811739ea0a23c27435d589747b7720050
-SHA256: af207590a3c92c7b9c5cf6f4bc51710677d78377551ec4b0ab2487d8601db94a
-
 Package: net.storeios.prysm
-Name: Prysm
+Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Author: LaughingQuoll
 Maintainer: LaughingQuoll
-Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
-Depiction: http://chienlove.github.io/description.html?id=net.storeios.prysm
+Installed-Size: 364744
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/net.storeios.prysm_1.0.2_iphoneos-arm.deb
-Installed-Size: 364.744
+Size: 364744
 MD5sum: dba3488c28637bd0bbab501cfdb93518
 SHA1: c6fe56784cd12f9ad89e55e2863523e25ca3ae49
 SHA256: e4b5ffea89b7664806af5b4b68b80c1c6e60cb0a2179567f5360b31d88fefb65
-Size: 364744
+SHA512: 21ef5260e40846951bd92dc899fccf9111c25fb232aa0c9d4c01c802ba5140746233a62ce5e7bfd1c1ef626b4706ab005085194b20726f20a75532d3be6bef11
+Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
+Name: Prysm
+Author: LaughingQuoll
+
+Package: net.storeios.screenrecorderforcedaudio
+Architecture: iphoneos-arm
+Version: 1.0-3
+Section: Tweak VH
+Depends: mobilesubstrate
+Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 32280
+MD5sum: 05b7c4e4d737498c6a89a521c5e615b8
+SHA1: 0633f9109ecc6151c867f0914308a13875251e72
+SHA256: d6c6b69caf3a44e83fb57414fcf34253cc9cb66b2768bd2d8f6f2d0d0ceb0e88
+SHA512: 32dcd1fcd4a67e8616a1e4b41d6849deb6093c8575a90695185038edc00796fa4d388a23af5498f4e4e49bc628bdf1273a1864a7c1fc8697532723e58658c678
+Name: ScreenRecorderForcedAudio
+Author: Kiran Patil
+Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
+
+Package: net.storeios.ultrasound
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Chienlove
+Installed-Size: 964
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
+Filename: ./debs/net.storeios.ultrasound_1.2.9_iphoneos-arm.deb
+Size: 323318
+MD5sum: bc1010b0670c3623744bc0502d0d1781
+SHA1: 992d234811739ea0a23c27435d589747b7720050
+SHA256: af207590a3c92c7b9c5cf6f4bc51710677d78377551ec4b0ab2487d8601db94a
+SHA512: 5bd861a2b5095aeecfb7a92806f9e20ec0b55f8a62dbfc0e6a21c66758498a962d1b6389b761212b2eafcd51c607e8eca817c72bff18a2cda1a770c333ff1038
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
+Name: Ultrasound
+Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
+Author: Ayden Panhuyzen
+
