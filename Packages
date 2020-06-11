@@ -1,22 +1,20 @@
-Package: net.appcuios.dayn
+Package: net.storeios.dayn
 Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: Chiến Love
-Installed-Size: 582038
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Replaces: com.jannikcrack.dayn
 Filename: ./debs/net.storeios.dayn_1.1_iphoneos-arm.deb
-Size: 582040
-MD5sum: b56bc9a1362d2f45ade7f026a883eb13
-SHA1: 08d18e20b30e34689abc726869ed37556b6a44c8
-SHA256: 221eac99d3ce2ed959c61f4c84086edb214450ebf26139d0f19730946dfd872c
-SHA512: 83b6bdaf4840208f607adcb92fbb2696bdd98f53d340d433b234267fab22556f453f854c6078b017b29835c755e82d4f9a5ccb318a192d7bec2742ebf9ee6245
+Size: 581984
+MD5sum: 166f02b0113336d64df9c45457326ebc
+SHA1: f393a5f61cb6aeb65249c5ec7f33b25214697f6b
+SHA256: 6b8f21eecdd6d8d681c05ce552042cca59426f8d127a02207fea31d07a2ec236
+SHA512: 5fda4813ead7e33a5aa6abfc85a9f09b349ed558c8187a385e08483f443090d4ae4721ef04726799f3479e3f3cf5ba7577f6c514c9ead01c7549f6d62aaa7710
 Description: Thiết kế lại biểu ngữ thông báo của bạn!
 Name: Dayn VH
 Author: JannikCrack, Devvix
 Depiction: https://chienlove.github.io/description.html?id=Dayn
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
