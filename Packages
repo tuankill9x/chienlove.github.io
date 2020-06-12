@@ -64,6 +64,34 @@ Name: ScreenRecorderForcedAudio
 Author: Kiran Patil
 Icon: file:///Library/PreferenceBundles/ScreenRecorderForcedAudio.bundle/icon@2x.png
 
+Package: net.storeios.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.7.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 2.0.0), firmware (>= 10)
+Filename: ./debs/net.storeios.tiktokgod_1.7.0_iphoneos-arm.deb
+Size: 54064
+MD5sum: 84ddc29c615178fff5afde1fb226369d
+SHA1: 4af4b18c4bcba8da2390e376747a8062582e3158
+SHA256: 9d3cd761d470f4fce65778c9b2e3a5a63bee8e4c653817b304018e2b065831d4
+SHA512: a4dc2e2e4e4362aa9782616f8d6c5ebc673778ea6034dc934f40fc5b3246d59ca624d173124ea8961d0f74c7d054412df6d4df1a7d343d825a9d520509815a64
+Description: Là một tweak tốt nhất cho ứng dụng TikTok 
+ . 
+ Chức năng:
+ - Xoá quảng cáo
+ - Cho phép tải xuống tất cả các video
+ - Tải xuống video không có logo
+ - Tự động cuộn sang video tiếp theo
+ - Thay đổi vùng (Có thể không hoạt động trên iPad và một số thiết bị )
+ - Hiển thị thanh tiến trình (để tựa nhanh hoặc tua lại video)
+ - Có thể ẩn UI (Xem video ở chế độ tổng màn hình)
+ - Hỗ trợ iOS 10 (chưa test ) - 11 (Đã test) - 12 (Đã test) - 13 (Đã test)
+ - Hỗ trợ phiên bản TikTok mới nhất (Nếu không hoạt động bạn nên cập nhật ứng dụng lên phiên bản mới mới nhất.  >= 15.9.0)
+Name: TikTok God
+Author: Hao Nguyen
+
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
 Version: 1.2.9

@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Repo chienlove
 MD5Sum:
- 2c62a5f6c165e7082d27d8dda61e9b04 3760 Packages
- b48a11197bd329505837f6c589bf6faf 2025 Packages.bz2
+ 24931df9535a9e971a7d45e56d299721 5126 Packages
+ d6daa8dc7492d29e60b8023b62809dd1 2588 Packages.bz2
