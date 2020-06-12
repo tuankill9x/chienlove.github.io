@@ -1,3 +1,19 @@
+Package: net.storeios.bfdecrypt
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: System
+Maintainer: Chienlove
+Depends: firmware(>=11.0), preferenceloader, applist
+Filename: ./debs/net.storeios.bfdecrypt_1.3.1_iphoneos-arm.deb
+Size: 176408
+MD5sum: 10c4107bf876ab927716c6bfdc02568a
+SHA1: a98aaa763ae3bd1a3e2a3c44a2969aabc29bb1e3
+SHA256: 31f8daec9703921d609f49b42d9022394a2ed4350cafc3b1b554c49ffc96496e
+SHA512: 1f46c46d1d0cd0af85947ee56fbc8d2046dedf7f5174f21ede7e532dae43c82c8ada75c032f4b865c679dd556df373fc281c9203c392e9066bd595cc4502e7df
+Description: bfdecrypt crack gỡ bỏ id kích hoạt ứng dụng. Xuất file ipa crack.
+Name: bfdecrypt
+Author: level3tjg <tjaygrantham@gmail.com>
+
 Package: net.storeios.dayn
 Architecture: iphoneos-arm
 Version: 1.1
