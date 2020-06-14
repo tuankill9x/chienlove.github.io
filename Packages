@@ -40,15 +40,15 @@ Maintainer: Chienlove
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Replaces: com.jannikcrack.dayn
 Filename: ./debs/net.storeios.dayn_1.1_iphoneos-arm.deb
-Size: 582028
-MD5sum: 4411479029b226d7c0afc89c66f6c722
-SHA1: 97670f8a9379f9dc3ac541d186d33b57f3228314
-SHA256: c78fa59244fe797d57ef53d52034bdf74acc677ccd226433d9e37280370d934c
-SHA512: d909f1b245b66e6fe4733b96e9f156b46cdaa49d61a446025dc46140ccbe071483db953afb461f75766aef36fa6d6d30db5aaca2c3f3627a4e8af14f54205d90
+Size: 582030
+MD5sum: 127654ffab5dabb4260f41e932c072eb
+SHA1: 960d0710642944c35c6e8b53588b11f28402953f
+SHA256: feac48d60431e154baa8fc40f4665beff24bde15381bccf48bd01ec484920b45
+SHA512: 571eac97fcd05e836faf6e59c716a4c27fd74e759988e50fa7bd302bc5d3da737b2d964d61d3065da7687b1a776512ef403580e5276994a5c438cf8c1c139ae2
 Description: Thiết kế lại biểu ngữ thông báo của bạn đẹp hơn.
 Name: Dayn VH
 Author: JannikCrack, Devvix
-Depiction: https://chienlove.github.io/description.html?id=Dayn
+Depiction: https://chienlove.github.io/depiction/p=dayn
 
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
