@@ -41,32 +41,31 @@ Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common 
 Replaces: com.jannikcrack.dayn
 Filename: ./debs/net.storeios.dayn_1.1_iphoneos-arm.deb
 Size: 582030
-MD5sum: 127654ffab5dabb4260f41e932c072eb
-SHA1: 960d0710642944c35c6e8b53588b11f28402953f
-SHA256: feac48d60431e154baa8fc40f4665beff24bde15381bccf48bd01ec484920b45
-SHA512: 571eac97fcd05e836faf6e59c716a4c27fd74e759988e50fa7bd302bc5d3da737b2d964d61d3065da7687b1a776512ef403580e5276994a5c438cf8c1c139ae2
+MD5sum: 867eb04e70d95f73716d670b771c5544
+SHA1: 1b6a5e1fdf39211b5dfa0d10dd34a076706c4342
+SHA256: 85e1c1435484b6ce2cc3a49ea80d34e19112384f001fc0138a7c8acee96c2589
+SHA512: 02e45c19d333df5f8f3b690bb2b58c3453c7e646d7ef7d65a2a26f7704db91825a98de581dea95532d80570a2dcac39ed19ae30efecb7cee32666a43262952f9
 Description: Thiết kế lại biểu ngữ thông báo của bạn đẹp hơn.
 Name: Dayn VH
 Author: JannikCrack, Devvix
-Depiction: https://chienlove.github.io/depiction/p=dayn
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dayn
 
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
 Maintainer: LaughingQuoll
-Installed-Size: 364744
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/net.storeios.prysm_1.0.2_iphoneos-arm.deb
-Size: 364786
-MD5sum: e47504db7d31b753f304538cc218dfe5
-SHA1: 6a618aa572b4a9cfa5e78dd72c0e338a052b3f24
-SHA256: 95974b8635c2bccfe023db45b41c39fb93d03c9155d4eebf983efffe2c64dc2b
-SHA512: 77fa6737308c4114d4691263a58400c0001819da96b0a9f9ab97e5df2a787b8c0f7b45c7e37bf9a23a67bda2e000e2149b385604ef938a4369df300540b775a0
+Size: 364760
+MD5sum: 4dc4df17aa84f42df4e7d165cf43372a
+SHA1: db12201ab205ca11bc3633ae8ea9950efd58cf0a
+SHA256: 9b9b813bb4c22c7f017d7ae72214d68c66e14ce691a1b09a44aef0bdd8d27c91
+SHA512: a790fc8f68c161d4a57c428a8cab7f4a039454ccad25030198bf9bff76b37135a73518d4fd1a2a5f28feea0e2e7fdc659cbedf76b7bb239c17a6d74eef9fd516
 Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
 Name: Prysm
 Author: LaughingQuoll
-Depiction: https://chienlove.github.io/description.html?id=net.storeios.prysm
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.prysm
 
 Package: net.storeios.screenrecorderforcedaudio
 Architecture: iphoneos-arm
