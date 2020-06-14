@@ -1,18 +1,18 @@
 <package>
-	<id>net.storeios.prysm</id>
-	<name>Prysm</name>
-	<version>1.0.2</version>
+	<id>net.storeios.screenrecorderforeaudio</id>
+	<name>ScreenRecorderForeAudio</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>10.0</miniOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Thiết kế lại trung tâm điều khiển đẹp hơn</description>
+		<description>Fix lỗi mất âm thanh khi quay màn hình trên máy jailbreak</description>
 	</descriptionlist>
-	<screenshots>prysm.jpg</screenshots>
+	<screenshots></screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>

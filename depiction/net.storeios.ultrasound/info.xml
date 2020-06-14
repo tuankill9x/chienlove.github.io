@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.ultrasound</id>
+	<name>Ultrasound</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thiết kế lại ví trị lại thành tăng giảm âm lượng đẹp hơn, hợp lý hơn</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

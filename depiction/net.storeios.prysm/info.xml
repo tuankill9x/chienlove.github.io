@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.prysm</id>
+	<name>Prysm</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thiết kế lại trung tâm điều khiển đẹp hơn</description>
+	</descriptionlist>
+	<screenshots><div style='text-align:center;'><a href='screenshot/prysm.jpg' target='_blank'><img width=90% src='screenshot/prysm.jpg'/></a><br></div></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
