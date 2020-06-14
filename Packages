@@ -58,14 +58,15 @@ Maintainer: LaughingQuoll
 Installed-Size: 364744
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/net.storeios.prysm_1.0.2_iphoneos-arm.deb
-Size: 364744
-MD5sum: dba3488c28637bd0bbab501cfdb93518
-SHA1: c6fe56784cd12f9ad89e55e2863523e25ca3ae49
-SHA256: e4b5ffea89b7664806af5b4b68b80c1c6e60cb0a2179567f5360b31d88fefb65
-SHA512: 21ef5260e40846951bd92dc899fccf9111c25fb232aa0c9d4c01c802ba5140746233a62ce5e7bfd1c1ef626b4706ab005085194b20726f20a75532d3be6bef11
+Size: 364786
+MD5sum: e47504db7d31b753f304538cc218dfe5
+SHA1: 6a618aa572b4a9cfa5e78dd72c0e338a052b3f24
+SHA256: 95974b8635c2bccfe023db45b41c39fb93d03c9155d4eebf983efffe2c64dc2b
+SHA512: 77fa6737308c4114d4691263a58400c0001819da96b0a9f9ab97e5df2a787b8c0f7b45c7e37bf9a23a67bda2e000e2149b385604ef938a4369df300540b775a0
 Description: Trung tâm điều khiển của bạn được thiết kế lại đẹp hơn, mới lạ hơn.
 Name: Prysm
 Author: LaughingQuoll
+Depiction: https://chienlove.github.io/description.html?id=net.storeios.prysm
 
 Package: net.storeios.screenrecorderforcedaudio
 Architecture: iphoneos-arm
