@@ -12,7 +12,7 @@
 	<descriptionlist>
 		<description>Thiết kế lại trung tâm điều khiển đẹp hơn</description>
 	</descriptionlist>
-	<screenshots><div style='text-align:center;'><a href='screenshot/prysm.jpg' target='_blank'><img width=90% src='screenshot/prysm.jpg'/></a><br></div></screenshots>
+	<screenshots><img src=“/screenshot/prysm.jpg”></img></screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
