@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.appcake</id>
+	<name>iOSGods iAPCracker</name>
+	<version>1.0-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> Tương tự LocaliAPStore. iOSGods iAP Cracker tinh chỉnh giúp mua in-app một số ứng dụng và trò chơi trên AppStore. Không phải nó sẽ mua được in-app tất cả các ứng dụng và game nên bạn đừng trông mong quá nhiều. Hỗ trợ chip A12/A13. Bật tinh chỉnh trong cài đặt.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

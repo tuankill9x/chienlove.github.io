@@ -52,6 +52,23 @@ Name: Dayn VH
 Author: JannikCrack, Devvix
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dayn
 
+Package: net.storeios.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Laxus
+Depends: mobilesubstrate
+Filename: ./debs/net.storeios.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 17710
+MD5sum: 265a4ba2f406528e2fc308cda9c1ae55
+SHA1: e6aa23173bb02106ab5e4f9b17d19cd0eeac2f00
+SHA256: d66c34a055aab10172f7784f5c5da8da7f434bf343d4663908207f6f99971df5
+SHA512: 2ae9799b3723aa4f18300f8f3733952def6c688cf9d34e9b10b27bd6bf322f4fdf97ab4a1fe89a45b829cb89bd86e5200da71230144cb7675c36238001da0207
+Description: Tương tự LocaliAPStore. iOSGods iAP Cracker tinh chỉnh giúp mua in-app một số ứng dụng và trò chơi trên AppStore. Không phải nó sẽ mua được in-app tất cả các ứng dụng và game nên bạn đừng trông mong quá nhiều. Bật tinh chỉnh trong cài đặt.
+Name: iOSGods iAP Cracker
+Author: Laxus
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.iosgodsiapcracker
+
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
 Version: 1.0.2
