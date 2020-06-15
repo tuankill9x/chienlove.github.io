@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.appcake</id>
+	<name>AppCake 6</name>
+	<version>6.1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Kho ứng dụng Crack cho iPhone đã jailbreak</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

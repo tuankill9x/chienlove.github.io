@@ -1,20 +1,21 @@
-Package: net.storeios.AppCake6
+Package: net.storeios.appcake
 Architecture: iphoneos-arm
 Version: 6.1.3
 Section: Utilities
 Maintainer: AppCake
 Pre-Depends: firmware (>= 9.0)
 Depends: appsync
-Filename: ./debs/net.storeios.AppCake6_6.1.3_iphoneos-arm.deb
-Size: 20773894
-MD5sum: 9e2061199b56f0b0da99a5f3cefa50c1
-SHA1: d91146bd8d63df18d83d491466f553046c655de6
-SHA256: 8a3d2e820e163d9dccc6cd7d017de2a5bd1a2f92576918e9c4acb8663ba51b10
-SHA512: 2a291c9116c458638e8a806bb07b1d2165eb0d31ab7322312b22c6168617d2459929a247cf8519ed531035411ca32b4872d29e1da156282a322589a6b8b8e2b9
+Filename: ./debs/net.storeios.appcake_iphoneos-arm.deb
+Size: 20773936
+MD5sum: ffb159c0cb5c3ff9c0588c52fed2c551
+SHA1: e63b40fe1cd9c7439c28e1a263ceb49927704d36
+SHA256: bd960a2dffd457d38f5fc02c887886d68d41c33df23dcc27219824de962cc699
+SHA512: be9b05480b66efb987648d784689041380121f056ab3c65b8dc126f017ac99de9545d4d0527341112354cd8a8fae395385f7b0e2e0aefe0846e15273e7b21fba
 Description: Kho ứng dụng crack cho iPhone đã jailbreak.
-Name: AppCake
+Name: AppCake 6
 Author: hotsjf
 Icon: file:///Applications/AppCake.app/icon57x57.png
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appcake
 
 Package: net.storeios.bfdecrypt
 Architecture: iphoneos-arm
