@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.bfdecrypt</id>
+	<name>Bfdecrypt</name>
+	<version>1.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Crack gỡ bỏ id kích hoạt ứng dụng. Xuất file ipa crack</description>
+	</descriptionlist>
+<screenshots></screenshots>
+	<changelog>
+   <change>đã khắc phục sự cố khiến bfdecrypt không thể chạy do sự cố mã hóa</change>
+	</changelog>
+	<links></links>
+</package>
