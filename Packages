@@ -67,6 +67,21 @@ Name: Prysm
 Author: LaughingQuoll
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.prysm
 
+Package: net.storeios.screenrecorderforcedaudio
+Architecture: iphoneos-arm
+Version: 1.0-3
+Section: Tweak VH
+Depends: mobilesubstrate
+Filename: ./debs/net.storeios.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 32282
+MD5sum: 9472c61399ff166c36658b18315441df
+SHA1: e8cad7252e64f8a4ac1d46ee960a2ea7e6321baa
+SHA256: 6544e612d2b781bf2bb38e0970a206358e56d38ee46759414f5fddda8754de14
+SHA512: 7ba24e0a890500b788358aaf934ec8393881931db482f8580e16b0e8097b04103b111e8e630c7d2c581b1ed9117bb5a53b45b1f7819e5bdc3b5844a2abf0e5d5
+Name: ScreenRecorderForcedAudio
+Author: Kiran Patil
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.screenrecorderforeaudio
+
 Package: net.storeios.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.7.0
