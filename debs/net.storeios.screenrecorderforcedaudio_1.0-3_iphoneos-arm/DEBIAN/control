@@ -1,0 +1,8 @@
+Package: net.storeios.screenrecorderforcedaudio
+Version: 1.0-3
+Section: Tweak VH
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: ScreenRecorderForcedAudio
+Author: Kiran Patil
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.screenrecorderforeaudio
