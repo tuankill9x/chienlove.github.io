@@ -1,5 +1,6 @@
 <package>
-	<id>net.storeios.screenrecorderforeaudio</id>
+
+<id>net.storeios.screenrecorderforeaudio</id>
 	<name>ScreenRecorderForeAudio</name>
 	<version>1.0-3</version>
 	<compatibility>
