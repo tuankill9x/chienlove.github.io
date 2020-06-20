@@ -155,6 +155,33 @@ Name: TikTok God
 Author: Hao Nguyen
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
 
+Package: net.storeios.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.8.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 2.0.0), firmware (>= 10)
+Filename: ./debs/net.storeios.tiktokgod_1.8.1_iphoneos-arm.deb
+Size: 57014
+MD5sum: 726539ccf1cf38adfb2c5c87ee0c012f
+SHA1: ec53363259390d753cda24effa852f103c2e6527
+SHA256: cc3a0a3d0ef7278cf3c2068bb1cb0266242917314afdf0e2654027c816b2fcc4
+SHA512: cd7d253379d873bf59c3969daeabb23e98ea58e1472d00bb20d806acac3dfe6cc297a52849875e5cbd8f4d0e41fefd83f6688412ae8789724ac4a793dfde2d1c
+Description: Là một tweak tốt nhất cho ứng dụng TikTok 
+ Chức năng:
+ - Xoá quảng cáo
+ - Cho phép tải xuống tất cả các video
+ - Tải xuống video không có logo
+ - Tự động cuộn sang video tiếp theo
+ - Thay đổi vùng (Có thể không hoạt động trên iPad và một số thiết bị )
+ - Hiển thị thanh tiến trình (để tựa nhanh hoặc tua lại video)
+ - Có thể ẩn UI (Xem video ở chế độ tổng màn hình)
+ - Hỗ trợ iOS 10 (chưa test ) - 11 (Đã test) - 12 (Đã test) - 13 (Đã test)
+ - Hỗ trợ phiên bản TikTok mới nhất (Nếu không hoạt động bạn nên cập nhật ứng dụng lên phiên bản mới mới nhất.  >= 15.9.0)
+Name: TikTok God
+Author: Hao Nguyen
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
+
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
 Version: 1.2.9
