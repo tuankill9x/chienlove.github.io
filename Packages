@@ -109,10 +109,10 @@ Maintainer: Spark
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/net.storeios.sneakycam_2.0.4_iphoneos-arm.deb
 Size: 143354
-MD5sum: 7dbcec11f096b31122e95aad5ce3b3f8
-SHA1: 9f3ac4f50a81fb112ea7d5223ee8c9e912b3decc
-SHA256: a0ba44ee9599968ade496b299985f40170b690624bc60e7e459b2f7ffc6a9dc4
-SHA512: 2f785bf57aa62f8b92b6e7eb237bb3ad8c0b5a74d54024b7443575cebe774d3cfa37043825e8af36d3fe63226b4e0a5562cb512340db2a005e8bb92f4f12ff5e
+MD5sum: 10891cd16fe05c60fb26a6b6ce0a3be6
+SHA1: 21669e5553ada784828048062e84253f4af36634
+SHA256: 544e80ebcefbb73b12b4e938a29d5ab3e31e63245e3d25a7291e0102a4c2c178
+SHA512: b64884329009f7edbe98c787428b55e85cd56c58fcc9562fe703ee8b421ade28b7fcfd73760328f146748a247c51bced0fe4f5b791713a969be7058ca6d3c4f3
 Description: Chụp ảnh và quay video từ bất cứ đâu? Ngay cả khi màn hình điện thoại đang tắt.
 Name: SneakyCam VH
 Author: Spark
