@@ -1,0 +1,21 @@
+<package>
+	<id>net.storeios.sneakycam</id>
+	<name>SneakyCam VH</name>
+	<version>2.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Chụp ảnh và quay video từ bất cứ đâu. Ngay cả khi điện thoại bạn tắt màn hình</description>
+ <h5>Hướng dẫn sử dụng</h5>
+ <description>Chụp ảnh bằng cách bấm hai lần vào nút giảm âm lượng</description>
+ <description>Bắt đầu và Dừng ghi bằng cách bấm hai lần vào nút tăng âm lượng</description></descriptionlist>
+<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

@@ -101,6 +101,23 @@ Name: ScreenRecorderForcedAudio
 Author: Kiran Patil
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.screenrecorderforeaudio
 
+Package: net.storeios.sneakycam
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Tweak VH
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/net.storeios.sneakycam_2.0.4_iphoneos-arm.deb
+Size: 143300
+MD5sum: 37e9bf0a3a696e2c69269bbd7cd5ba3a
+SHA1: 4b4f3dadbf454faec882e0b90627aa46f5740193
+SHA256: e06375392ef60d1644a254216e7c69b5e9b1136b800e181db02e188f7528ec38
+SHA512: 7d82f173b384dc14c1e507641856bd064359b9ac7e87257efccbc2452f17c9afd8a1648af12334c8c92c31b256dbcd3c2e97407d9c7f917a9856548ae4e845f7
+Description: Chụp ảnh và quay video từ bất cứ đâu? Ngay cả khi màn hình điện thoại đang tắt.
+Name: SneakyCam VH
+Author: Spark
+Depiction: http://chienlove.github.io/depiction/?p=net.storeios.sneakycam
+
 Package: net.storeios.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.7.0
