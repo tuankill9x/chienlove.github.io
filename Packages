@@ -60,10 +60,10 @@ Maintainer: Laxus
 Depends: mobilesubstrate
 Filename: ./debs/net.storeios.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
 Size: 17904
-MD5sum: 194abc00da761bcb90ce8e70109a1d1f
-SHA1: fa7528c0acf68ae84027267167567ec8323cca4a
-SHA256: 62c77fbeedaf2020f0fbd4d25557a98086817733fcbc76c67448be7f153beab2
-SHA512: b8f0e6b6a278e63132d5ba56ac62774ea68c51d31d94bf9f60f4cb9dd5e7bdf955c0cc24a14785c09fae5b58227e9a3b00ca6981f851a323c68a6e1f640f4334
+MD5sum: e4c116d1c10f0ee80939f216df036ac6
+SHA1: 8ba2d1c5a83b77d6e18f0bb4b3b25aa7d05178ee
+SHA256: e68ac453d5f2a37965f450932b17485b56e0513f85352c94f237ce8c371e54fe
+SHA512: af300e96d7e546a587b7e855d21cd7257b08a6cbb825503856dbba040e87ecc5b4b0d34ac01c37cc9c0d3bf2a8aa17d10f0872cb9532e567c72ac33cd612a5da
 Description: Tương tự LocaliAPStore. iOSGods iAP Cracker tinh chỉnh giúp mua in-app một số ứng dụng và trò chơi trên AppStore. Không phải nó sẽ mua được in-app tất cả các ứng dụng và game nên bạn đừng trông mong quá nhiều. Bật tinh chỉnh trong cài đặt.
 Name: iOSGods iAP Cracker
 Author: Laxus
