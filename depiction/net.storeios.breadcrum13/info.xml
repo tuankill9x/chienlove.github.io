@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.breadcrum13</id>
+	<name>Ultrasound</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Ẩn liên kết (Breadcrumb) trở lại ứng dụng trước đó trên góc trái màn hình.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

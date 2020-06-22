@@ -69,6 +69,23 @@ Name: iOSGods iAP Cracker
 Author: Laxus
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.iosgodsiapcracker
 
+Package: net.storeios.nobreadcrum13
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: udevs
+Depends: mobilesubstrate, firmware(>=13.0)
+Filename: ./debs/net.storeios.nobreadcrum13_1.0_iphoneos-arm.deb
+Size: 4936
+MD5sum: c2117e26f3d44b36d57fc423052f04c8
+SHA1: c4a455d92262caecbc9d679753ee2920c8a8adb3
+SHA256: 13a3b848006dc59f3f9e6fe461be1382dad782174f92316e107d48c8d4227922
+SHA512: f0cb7733a42b11b3fb191968c773d30c555ba98b6cf000dcf4e8e01454561f624b4754e589831df1d5798172950bdb393bb46b768af095cf1255fff2aaee3764
+Description: Ẩn liên kết (Breadcrumb) trở lại ứng dụng trước đó trên góc trái màn hình.
+Name: NoBreadcrum13
+Author: udevs
+Depiction: https://chienlove.github.io/depictions/?p=net.storeios.nobreadcrum13
+
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
 Version: 1.0.2
