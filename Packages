@@ -76,15 +76,15 @@ Section: Tweaks
 Maintainer: udevs
 Depends: mobilesubstrate, firmware(>=13.0)
 Filename: ./debs/net.storeios.nobreadcrum13_1.0_iphoneos-arm.deb
-Size: 4936
-MD5sum: c2117e26f3d44b36d57fc423052f04c8
-SHA1: c4a455d92262caecbc9d679753ee2920c8a8adb3
-SHA256: 13a3b848006dc59f3f9e6fe461be1382dad782174f92316e107d48c8d4227922
-SHA512: f0cb7733a42b11b3fb191968c773d30c555ba98b6cf000dcf4e8e01454561f624b4754e589831df1d5798172950bdb393bb46b768af095cf1255fff2aaee3764
+Size: 4934
+MD5sum: 617da78f11b012aef59d5bda8050cd94
+SHA1: ef88b29a907e65eb6bb3462791311dd6f47de484
+SHA256: 314e067525f91869c358ebf8f7e83dd76b4b67e32f707a7e696a9edd7d299867
+SHA512: c4f5e5189ef210dce8c5eb6d95766ddda36388235b577f8aa94810f64832a78e03e7dd6dd3942309240218c589cba96778c4b970d8fbcc35009759ae826f4a3b
 Description: Ẩn liên kết (Breadcrumb) trở lại ứng dụng trước đó trên góc trái màn hình.
 Name: NoBreadcrum13
 Author: udevs
-Depiction: https://chienlove.github.io/depictions/?p=net.storeios.nobreadcrum13
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.nobreadcrum13
 
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
