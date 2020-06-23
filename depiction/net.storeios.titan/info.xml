@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.titan</id>
+	<name>Prysm</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Chế độ PiP cho tất cả các ứng dụng yêu thích của bạn</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>titan1.jpg</image></screenshot><screenshot><description></description><image>titan2.jpg</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

@@ -216,6 +216,24 @@ Name: TikTok God
 Author: Hao Nguyen
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
 
+Package: net.storeios.titan
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), com.bingner.plutil
+Filename: ./debs/net.storeios.titan_1.0.1_iphoneos-arm.deb
+Size: 201558
+MD5sum: 72090f621bff29b5205ff7f7cf5ecca9
+SHA1: 9bdd4a1241ffcd2d7cabc3e64240970e4a87bb0a
+SHA256: 7a099cf4ffe574ceb6faaecb63abb1085530a0eef852c8c91487bf43b870aa06
+SHA512: b4a32fc1a641d298b74bf9b64fd43c3112ff3a80048d6c0a3486ebdbe2cd766400009fc9e69a7aa883917ac9fc81708194806eb5e69401102081b0056ac7920c
+Description: Chế độ PiP cho tất cả các ứng dụng yêu thích của bạn.
+Tag: compatible_min::ios13.0
+Name: Titan VH
+Author: tcbrooks
+Depiction: https://chienlove.github.io/depiction/net.storeios.titan/
+
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
 Version: 1.2.9
