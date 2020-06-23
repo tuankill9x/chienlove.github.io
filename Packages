@@ -224,15 +224,15 @@ Maintainer: Chienlove
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0), com.bingner.plutil
 Filename: ./debs/net.storeios.titan_1.0.1_iphoneos-arm.deb
 Size: 201558
-MD5sum: 72090f621bff29b5205ff7f7cf5ecca9
-SHA1: 9bdd4a1241ffcd2d7cabc3e64240970e4a87bb0a
-SHA256: 7a099cf4ffe574ceb6faaecb63abb1085530a0eef852c8c91487bf43b870aa06
-SHA512: b4a32fc1a641d298b74bf9b64fd43c3112ff3a80048d6c0a3486ebdbe2cd766400009fc9e69a7aa883917ac9fc81708194806eb5e69401102081b0056ac7920c
+MD5sum: 2508406ee961c615831f7b34621a7d78
+SHA1: 7365cee2ca84d52cb271e3fdd5623161d051b4a2
+SHA256: dd5c73c29a410af326b3a49b9466c6076d0ec07dd7f1f73fe4bf9d5c654910ba
+SHA512: 3236479fc0404e0fb7c644eb73ab82af0bae79a67197675015de11e9901fce72f7397fc18248b04c082931b0bf963f01b3cb323a3b5afd0e4b36329322699ede
 Description: Chế độ PiP cho tất cả các ứng dụng yêu thích của bạn.
 Tag: compatible_min::ios13.0
 Name: Titan VH
 Author: tcbrooks
-Depiction: https://chienlove.github.io/depiction/net.storeios.titan/
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.titan/
 
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
