@@ -93,13 +93,13 @@ Section: Tweaks
 Maintainer: niceios
 Depends: mobilesubstrate
 Filename: ./debs/net.storeios.notchstatusbar_2.2_iphoneos-arm.deb
-Size: 128594
-MD5sum: 580ca9f034f3a564d86f548daa7212d5
-SHA1: ae0fe533988421ea45a70895b980a5ca6b1ab78a
-SHA256: 90177bcfcd8ff5a76589b77693b6412263f06dca3229373dd3734bec2bb3538b
-SHA512: 18ac163df59ef9cdaf3bd7da92e72cdcbd2f94974d8ba521654037dac408ec682a569507701c37ad4c1c399acf66f36eac9d5e19422cfab0a3395d54cd6806ba
+Size: 128598
+MD5sum: 1e20d08c59dbae8ad89e42673bf517ef
+SHA1: bb87d5aaf2bf63e87b7bebcd66c4b56b0dd8a3ed
+SHA256: c4458640ddb6601a251d09b112e6efeef93084c3560ab6ecb412b70e9975d582
+SHA512: f941f75e276435824e13cab18d00f9c3d59f74dc6a7bdbef882ac119ebb16383be31a6bba80096aea799f6afe4a84e3d951084c4698775f8d452e5d3b43fbb93
 Description: Thay đổi chiều cao và cạnh của tai thỏ iPhone X cho phù hợp hơn.
-Name: NotchStatusbar iPhoneX
+Name: NotchStatusbar iPhoneX VH
 Author: Acreson
 Sponsor: niceios
 
