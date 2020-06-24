@@ -11,7 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Thêm dòng thứ hai vào thanh trạng thái để hiển thị ngày tháng trên các thiết bị có tai thỏ</description>
+		<description>Thêm dòng thứ hai vào thanh trạng thái để hiển thị ngày tháng trên các thiết bị có tai thỏ. Nó cũng hỗ trợ các dòng thường không có tai thỏ. Có cấu hình riêng cho dòng thường trong cài đặt</description>
 	</descriptionlist>
 <screenshots><screenshot><description></description><image>dateundertime13vh.jpg</image></screenshot></screenshots>
 	<changelog>
