@@ -1,0 +1,10 @@
+Package: net.storeios.dateundertime13vh
+Name: DateUnderTime13 VH
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex, com.yourepo.kingmehu.perfecttimexs
+Architecture: iphoneos-arm
+Description: Thêm hai dòng vào thanh trạng thái để hiển thị ngày tháng trên các thiết bị có tai thỏ
+Maintainer: Chienlove
+Section: Tweaks
+Version: 1.9
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dateundertime13vh

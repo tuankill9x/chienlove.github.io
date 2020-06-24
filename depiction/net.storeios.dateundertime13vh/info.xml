@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.dateundertime13vh</id>
+	<name>Prysm</name>
+	<version>1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+          <maxiOS>13.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thêm dòng thứ hai vào thanh trạng thái để hiển thị ngày tháng trên các thiết bị có tai thỏ</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>dateundertime13vh.jpg</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

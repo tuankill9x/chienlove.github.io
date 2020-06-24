@@ -34,6 +34,23 @@ Name: bfdecrypt
 Author: level3tjg
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.bfdecrypt
 
+Package: net.storeios.dateundertime13vh
+Architecture: iphoneos-arm
+Version: 1.9
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13)
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex, com.yourepo.kingmehu.perfecttimexs
+Filename: ./debs/net.storeios.dateundertime13vh_1.9_iphoneos-arm.deb
+Size: 98048
+MD5sum: 1aab47b47edfa9478ab44a34ad6f535f
+SHA1: 62e9a1684034225a5e2ac0e2b6454b1f6277f29c
+SHA256: a84c935880c58ad69eb107fc711307f6d19e6cf13bb23001b3a1cdcc1b93f9ef
+SHA512: 021c80342aa78bd2ef3c5203e02ca94054bfbd593a7691faf91004ce77d23cf459dc692997cb61eddc8ffcaf8f6299c6b8789f49fb5599a70784614d7717c685
+Description: Thêm hai dòng vào thanh trạng thái để hiển thị ngày tháng trên các thiết bị có tai thỏ
+Name: DateUnderTime13 VH
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dateundertime13vh
+
 Package: net.storeios.dayn
 Architecture: iphoneos-arm
 Version: 1.1

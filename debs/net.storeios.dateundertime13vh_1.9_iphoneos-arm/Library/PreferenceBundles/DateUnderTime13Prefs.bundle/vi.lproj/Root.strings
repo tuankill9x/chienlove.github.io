@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>'WHEN TAP TO SHOW NEXT ALARM' OPTION IS ENABLED YOU CAN TAP THE TIME TO SHOW NEXT ALARM DATE AND TAP AGAIN TO SHOW THE CURRENT TIME AGAIN.</key>
+	<string>'KHI CHẠM ĐỂ HIỂN THỊ LỰA CHỌN TIẾP THEO' ĐƯỢC TÌM HIỂU BẠN CÓ THỂ CHẠM THỜI GIAN ĐỂ HIỂN THỊ NGÀY BÁO THỨC TIẾP THEO VÀ CHẠM LẠI ĐỂ HIỂN THỊ THỜI GIAN HIỆN TẠI.</string>
+	<key>1ST LINE</key>
+	<string>Dòng 1</string>
+	<key>2ND LINE</key>
+	<string>Dòng 2</string>
+	<key>ABOUT ME</key>
+	<string>Về Tôi</string>
+	<key>ABOUT THIS TWEAK</key>
+	<string>Về tinh chỉnh này</string>
+	<key>ACTIONS</key>
+	<string>Hành động</string>
+	<key>ALIGNMENT</key>
+	<string>Căn chỉnh</string>
+	<key>Alignment</key>
+	<string>Căn chỉnh</string>
+	<key>BREADCRUMBS</key>
+	<string>liên kết trở lại ứng dụng trước</string>
+	<key>BY ENABLING THIS SETTING, YOU WILL NOT NEED MY OTHER TWEAK CALLED 'DISABLEBREADCRUMBS13'. IT HAS THE SAME FUNCTIONALITY.</key>
+	<string>Nếu cài đặt này được bât. Bạn sẽ không cần cài tinh chỉnh khác của tôi có tên là DÍABLEBREADCRUMBS13 nữa. Nó có chức năng giống nhau</string>
+	<key>Bold</key>
+	<string>Đậm</string>
+	<key>CUSTOM TEXT COLOR</key>
+	<string>Màu văn bản tuỳ chỉnh</string>
+	<key>Center</key>
+	<string>Giữa</string>
+	<key>Check me on Reddit</key>
+	<string>Theo dõi tôi trên Reddit</string>
+	<key>Custom Text Color</key>
+	<string>Màu văn bản tuỳ chỉnh</string>
+	<key>Custom Width</key>
+	<string>Chiều rộng tuỳ chỉnh</string>
+	<key>DateUnderTime13</key>
+	<string>DateUnderTime13 VH</string>
+	<key>Disable Breadcrumbs</key>
+	<string>Vô hiệu hoá breadcrums</string>
+	<key>Double Tap To Open App</key>
+	<string>Chạm hai lần để mở ứng dụng</string>
+	<key>Email Me</key>
+	<string>Email của tôi</string>
+	<key>Enabled</key>
+	<string>Bật</string>
+	<key>FIX FOR NON NOTCHED IPHONES</key>
+	<string>Sửa lỗi cho iPhone không có tai thỏ</string>
+	<key>Font Size</key>
+	<string>Kích thước phông chữ</string>
+	<key>Format</key>
+	<string>Định dạng</string>
+	<key>Formatting Instructions</key>
+	<string>Trang tải app &amp; game miễn phí Cho iOS</string>
+	<key>Hide location Indicator</key>
+	<string>Ẩn chỉ số vị trí</string>
+	<key>Hold To Open App</key>
+	<string>Giữ để mở ứng dụng</string>
+	<key>LANGUAGE</key>
+	<string>Ngôn ngữ</string>
+	<key>LOCATION INDICATOR</key>
+	<string>Chỉ số vị trí</string>
+	<key>Left</key>
+	<string>Trái</string>
+	<key>Like my work? Buy me a coffee :)</key>
+	<string>Theo tôi trên Facebook</string>
+	<key>Locale</key>
+	<string>Miền địa phương</string>
+	<key>Reset All Settings</key>
+	<string>Đặt lại tất cả cài đặt</string>
+	<key>Right</key>
+	<string>Phải</string>
+	<key>Select App To Open On Double Tap</key>
+	<string>Chọn ứng dụng để mở khi chạm hai lần</string>
+	<key>Select App To Open On Hold</key>
+	<string>Chọn ứng dụng để mở khi giữ</string>
+	<key>Show Date In The Same Line</key>
+	<string>Hiện ngày tháng trên cùng một dòng</string>
+	<key>Source Code</key>
+	<string>Nguồn code</string>
+	<key>Tap To Show Next Alarm</key>
+	<string>Chạm để hiển thị báo thức tiếp theo</string>
+	<key>WHEN RESETING, RESPRING WILL OCCUR</key>
+	<string>Khi đặt lại, Sẽ xảy ra khởi động lại</string>
+	<key>© 2020 John Zarogiannis (johnzaro)</key>
+	<string>Được dịch bởi Chienlove (https://storeios.net)</string>
+</dict>
+</plist>
