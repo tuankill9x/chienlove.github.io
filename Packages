@@ -24,17 +24,15 @@ Section: Tweaks
 Maintainer: hmodei96
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/net.storeios.appshacks_3.0-1_iphoneos-arm.deb
-Size: 1732824
-MD5sum: aa4b77d9417d8f3e2eefc66515961590
-SHA1: b3617f7b37f0969f6a6d837c6c6ba57c4199d244
-SHA256: ee8c925525beddcb9a8f342e3688639268072f2f4c7f4e13f3b1be1c5f0e8a16
-SHA512: 5d1b7bebca76e85357e0c11813651dfa980ebd51e97e0ec00139d389fe75a9a252383194a2fdfcdd52805dc8946085ede186b436b684ffcbad1b0d742c1a1c46
+Size: 1732772
+MD5sum: b8b8c17892e0fef9790fab569fa7fe91
+SHA1: 5e9b822d676b104da65d05b2e92b1ea67c9d3a80
+SHA256: 6d1d402cab18f5e4148ee862665fec6f5d3771bb57c798b507b5f8ff23635763
+SHA512: 27ad42a919468b9875a4002ad9b7f724a9523c8f3086063ecd7cb6eb804b250b7f688ca2f3ec7805cf4a9201ed7006e948c5d378cf16154019f5e5f44b406e67
 Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
-Tag: cydia::commercial
-Name: Apps Hacks
+Name: Apps Hacks VH
 Author: hmodei96
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
-Icon: https://guofenpai.github.io/repo/icon/appshacks.png
 
 Package: net.storeios.bfdecrypt
 Architecture: iphoneos-arm
