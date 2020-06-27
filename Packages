@@ -24,12 +24,12 @@ Section: Tweaks
 Maintainer: hmodei96
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/net.storeios.appshacks_3.0-1_iphoneos-arm.deb
-Size: 1732812
-MD5sum: 390f0969188514bf1a93e92ed2fa7390
-SHA1: 6e8ca32726aa2a791a083f9c89e42609e291a8dd
-SHA256: 87760e8a0d2c6a7f7317adeab4b444a7b5a84dfe69dcff05b44fbabfd48fe321
-SHA512: 2a7db0a241aee32381148a017c4677237b31e71b9cf59646d055a9ddaddb1cad6bea11bec33fdeefe1140718e66fd50277df507e957693daba6d12c7d19eb4ba
-Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...
+Size: 1732824
+MD5sum: aa4b77d9417d8f3e2eefc66515961590
+SHA1: b3617f7b37f0969f6a6d837c6c6ba57c4199d244
+SHA256: ee8c925525beddcb9a8f342e3688639268072f2f4c7f4e13f3b1be1c5f0e8a16
+SHA512: 5d1b7bebca76e85357e0c11813651dfa980ebd51e97e0ec00139d389fe75a9a252383194a2fdfcdd52805dc8946085ede186b436b684ffcbad1b0d742c1a1c46
+Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
 Tag: cydia::commercial
 Name: Apps Hacks
 Author: hmodei96
