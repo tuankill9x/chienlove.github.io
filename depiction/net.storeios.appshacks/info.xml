@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.appshacks</id>
+	<name>Apps Hacks</name>
+	<version>3.0-1</version>
+	<compatibility>
+		<firmware>
+          <maxiOS>13.5</maxiOS>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)</description>
+ </descriptionlist>
+<screenshots><screenshot><description></description><image>appshacks_1.jpg</image></screenshot><screenshot><description></description><image>appshacks_2.jpg</image><screenshot><description></description><image>appshacks_3.jpg</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
