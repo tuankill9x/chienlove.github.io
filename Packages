@@ -267,6 +267,78 @@ Name: TikTok God
 Author: Hao Nguyen
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
 
+Package: net.storeios.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.9.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Filename: ./debs/net.storeios.tiktokgod_1.9.0_iphoneos-arm.deb
+Size: 68536
+MD5sum: 667d234d30a626dba2edb022b18cc05c
+SHA1: a3af2f51197dca95f036b4a888144ae85890d6d8
+SHA256: 853e1fb7116055eaf2a04106295056010bce6c41f719b1511656427c2ef09f63
+SHA512: 2088a53a88e152570367fe22fe8ebf069bc1c99c8909e4065d9c7aa3d6867b0e3d7da90b6dc1f2134486c1481d554cae4f819cd309e9453840763f7eb8599675
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Enable download for all videos
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Support iOS 10-13 & latest TikTok version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict or https://www.patreon.com/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Author: Hao Nguyen
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
+
+Package: net.storeios.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Filename: ./debs/net.storeios.tiktokgod_1.9.1_iphoneos-arm.deb
+Size: 68864
+MD5sum: d327e920738f52e51fdf07e522dae134
+SHA1: d07e6ec51779fcd649dfdf102a4d6d16ef5e18ca
+SHA256: 108bad346ed373819b6fc16cc1626bc1ee780d9b2a35097bc0057ee4f01cefb4
+SHA512: 42e3b7b6af9ef81ebf96fb4ea4e5155bed9f7ce534aae6c0010aea1fcb248be4a1796b9f952dfc681b2d230817155f2e18401b3e06cca05aa2bd72d06283bb3d
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Enable download for all videos
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Support iOS 10-13 & latest TikTok version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict or https://www.patreon.com/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Author: Hao Nguyen
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.tiktokgod
+
 Package: net.storeios.titan
 Architecture: iphoneos-arm
 Version: 1.0.1
