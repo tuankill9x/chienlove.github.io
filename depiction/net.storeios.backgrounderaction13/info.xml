@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.breadcrum13</id>
+	<name>Ultrasound</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thêm phím tắt chế độ nền vào trung tâm điều khiển.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

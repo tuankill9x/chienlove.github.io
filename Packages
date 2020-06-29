@@ -34,6 +34,23 @@ Name: Apps Hacks
 Author: hmodei96
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
 
+Package: net.storeios.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/net.storeios.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20424
+MD5sum: 630805d5270c80aad51617addc575c2a
+SHA1: 70d7cc09a446f743dce9ca6be7b5150f9d85508d
+SHA256: 55ffea75c4c814dde8afc813a699d1f2562ce7ba7a7a2166fecbfbc5e9f22314
+SHA512: 27d7a82f53fa0e7496192eb7ff120696f1bb47b5e8bec8abb94a1b48e827d5b0af65b666be24e590d89358f28b1ab313aca9fab7690e1f8eb761a584a1ae0e05
+Description: [iOS13]Thêm phím tắt "Chuyển đổi chế độ nền" vào trung tâm điều khiển.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.backgrounderaction13
+Author: akusio
+
 Package: net.storeios.bfdecrypt
 Architecture: iphoneos-arm
 Version: 1.3.1
@@ -102,6 +119,23 @@ Description: Tương tự LocaliAPStore. iOSGods iAP Cracker tinh chỉnh giúp 
 Name: iOSGods iAP Cracker
 Author: Laxus
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.iosgodsiapcracker
+
+Package: net.storeios.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Section: Tweaks
+Maintainer: akusio
+Depends: mobilesubstrate, net.storeios.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/net.storeios.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 73444
+MD5sum: 1d2ecd24e7863affe008add25a671af4
+SHA1: e16c63fa0248cf045176c785a149c1f1211ca6f1
+SHA256: 92be742d452bf363483391aeed4a4523917381cd3e878110cd8786885dfcf21c
+SHA512: 342401d6bf6cc45346a3d86ad788f453c2709464eee89c250ca36f5c8a9f65765aef7d79e89b25ef09e53a4e6e1bfb1fa964b2998edf9324b4c8822033e1f536
+Description: Đa nhiệm cho iOS 13.
+Name: MilkyWay2 VH
+Depiction: http://chienlove.github.io/depiction/?p=net.storeios.milkyway2
+Author: akusio
 
 Package: net.storeios.nobreadcrum13
 Architecture: iphoneos-arm
