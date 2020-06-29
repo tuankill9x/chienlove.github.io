@@ -1,6 +1,6 @@
 <package>
-	<id>net.storeios.breadcrum13</id>
-	<name>Ultrasound</name>
+	<id>net.storeios.backgrounderaction13</id>
+	<name>Backgrounderaction13</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,7 +10,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Thêm phím tắt chế độ nền vào trung tâm điều khiển.</description>
+		<description>Thêm phím tắt chuyển đổi chế độ nền vào trung tâm điều khiển.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
