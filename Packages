@@ -109,11 +109,11 @@ Version: 0.2.0-alpha
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./debs/net.storeios.milkyWay2_0.2.0-alpha_iphoneos-arm.deb
-Size: 84528
-MD5sum: 590cd739251303d3093aa45af47f4ec7
-SHA1: 968f84aacd81f63054661363ad59aa4527ec155d
-SHA256: 9f9bd67278faf36dcc75c0011f6f39de8e8a9ac22eb7ba36f83ce567df0e8c7a
-SHA512: 60b568e25909069e38ea9062782e2bcf4cf1f4ff7bc3d5d2d6477a622b766a132f22c7ce3aeee84f88f428c9fda23fa4aee1a1bb7dfa680f6ab9d61da5d35e2f
+Size: 84524
+MD5sum: 19416403b271b25c4c4e07fa6880d79a
+SHA1: 00a194c0e7e0a2b308eb0e5bbb79052823f265c0
+SHA256: 53e01badfec10bb75b632365f82c4d09043e6c8c346b040407064fe2d71ad4d4
+SHA512: 7071bfd78969375e878e3d20ca060f3d8b0782a35e2bd68380c77bfba72d19971e37f34f2249a218a6f4244c72a54d5d3f45a5b96970a578d85efecc5cec9739
 Description: Đa nhiệm cho iOS 13. Thêm phím tắt chuyển đổi chế độ nền vào trung tâm điều khiển.
 Name: MilkyWay2 VH
 Author: akusio
