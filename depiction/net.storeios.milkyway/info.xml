@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.milkyway2</id>
+	<name>Milkyway2</name>
+	<version>0.1.4beta</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+          <maxiOS>12.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tweak MilkyWay là một addon miễn phí cho iOS 11 và iOS 12 được tạo bởi @akusio_RR, có thêm tùy chọn để chạy nhiều ứng dụng cùng một lúc trên iPhone và iPad đã bẻ khóa. Phiên bản này chỉ hoạt động trên iOS 11,12. Và không yêu cầu bất kỳ cấu hình nào. Kích hoạt đa nhiệm và chạy nhiều ứng dụng trong các cửa sổ nhỏ. Có thể thêm phím tắt bật tắt nhanh vào trung tâm điều khiển.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
