@@ -39,17 +39,15 @@ Architecture: iphoneos-arm
 Version: 0.1.4beta
 Section: Tweaks
 Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 208
 Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
 Filename: ./debs/jp.akusio.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53886
-MD5sum: 16215e3679d0e50c00f46af56a2ce41d
-SHA1: b215c92cbd349f14e54a0f9a6e61d417b1169c58
-SHA256: 6412eac6ad919b1f523a03115ae563cfe71ed63c498d1e11b1b661254dfb33f3
-SHA512: 30934488e954617e8ac98b280d834848cc55cbd6953c3a1a0e27f75ffe2936466d388332dd40d6968429ce4523aecfd4f8cc3754b34176f6729fe08119f7ab78
+Size: 53852
+MD5sum: 5f8b8ef63fb8a4d193966e94513eebb6
+SHA1: 8e32c3c88a9db4ec90df9d1fccef379a5d42a14e
+SHA256: 64bbade936ac08c9d6b476e5471d29a28ec7b61117e262b0ba0f41bf84d9a090
+SHA512: 01d159b84e369bc0ba860d7425ca5b0001fecb2b70e0997f241338205dcf1b81135d3dc0cb0eabe1c6dc73a254ac3f9c5740e924fa8c033ca023387403764d77
 Description: multitasking for iOS.
 Name: MilkyWay
-Depiction: http://akusio.github.io/descriptions/milkyway/index.html
 Author: akusio <akusio-report@neko2.net>
 
 Package: net.storeios.appcake
