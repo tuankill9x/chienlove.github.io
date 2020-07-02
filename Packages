@@ -34,38 +34,6 @@ Name: Apps Hacks
 Author: hmodei96
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
 
-Package: net.storeios.backgrounderaction11
-Architecture: iphoneos-arm
-Version: 0.0.8
-Section: Tweak
-Maintainer: Akusio
-Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
-Filename: ./debs/net.storeios.backgrounderaction11_0.0.8_iphoneos-arm.deb
-Size: 11270
-MD5sum: dc6233a369ba5b5f477f16eddef0d673
-SHA1: 66993afb27c6a15b0d0a1438fde13d9794c5eb9f
-SHA256: cb3acfb075d1477b48942ba9de52c5576f9f57f2c444c353842ffc105bf18a27
-SHA512: 5b5576e4fc0a9c0fbd444cf60fc11833fcebc8eca3b2d5d7d5090bebcf83c5453877145dc841c93c0f5b91fdfb2b9d38f92e1b846d04ea4d1a280acb0bfd297b
-Description: * Hiện đang ở bản Beta * Thêm hành động "Chuyển đổi chế độ nền" vào Activator
-Name: Backgrounder Action
-Author: akusio <akusio-report@neko2.net>
-
-Package: net.storeios.backgrounderaction12
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Tweaks
-Maintainer: Chienlove
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/net.storeios.backgrounderaction12_0.1.0_iphoneos-arm.deb
-Size: 21324
-MD5sum: b068247e826c3bad8c03cbfbc1d39ca0
-SHA1: f0298d317bbebe7f65e1c885f42a634555285c76
-SHA256: eff2a59e5c1030c388fdfc6ed3e138b9bdb8c9921403a3029675513b7a1b0d99
-SHA512: a9e0a5fe83acb559f165eea3e84f7ce0b75c4325bf24aaff644678d16fcef689517429ddf10edb94fb13788869d51634e263af18635b1db68340f5cca1797f74
-Description: Thêm hành động "Chuyển đổi chế độ nền" trung tâm điều khiển.
-Name: BackgrounderAction for CCSupport
-Author: akusio <akusio-report@neko2.net>
-
 Package: net.storeios.bfdecrypt
 Architecture: iphoneos-arm
 Version: 1.3.1
@@ -150,23 +118,6 @@ Description: Đa nhiệm cho iOS 13. Thêm phím tắt chuyển đổi chế đ�
 Name: MilkyWay2 VH
 Author: akusio
 Depiction: http://chienlove.github.io/depiction/?p=net.storeios.milkyway2
-
-Package: net.storeios.milkyway
-Architecture: iphoneos-arm
-Version: 0.1.4beta
-Section: Tweaks
-Maintainer: Chienlove
-Depends: mobilesubstrate, net.storeios.backgrounderaction11 | net.storeios.backgrounderaction12
-Filename: ./debs/net.storeios.milkyway_0.1.4beta_iphoneos-arm.deb
-Size: 53904
-MD5sum: 2a213c805327ee036f9da3b27cae5d30
-SHA1: 53a373b943d65292deaf0d1f0eb30153a668caed
-SHA256: e2f4d98f44ee49e82672e33ac322877a8ab2a8d7b12a8ce3a569de33caf70716
-SHA512: 255b8ec4704a1c390d495c9f516fe946df49735071ac4c3e7ae71e1a612a1d263a637fbb4e3d0ef183cb6c90537714d7328695bd0a0c57c4b16b0485b2071b21
-Description: multitasking for iOS.
-Name: MilkyWay iOS 11,12
-Author: akusio <akusio-report@neko2.net>
-Depiction: https://chienlove.github.io/depiction/?p=net.storeios.milkyway
 
 Package: net.storeios.nobreadcrum13
 Architecture: iphoneos-arm
