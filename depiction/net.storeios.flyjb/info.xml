@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.flyjb</id>
+	<name>Prysm</name>
+	<version>0.2.5.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+          <maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này chặn tất cả các ứng dụng phát hiện jailbreak. (Có thể hoạt động trên một số ứng dụng)</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>flyjb.jpg</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
