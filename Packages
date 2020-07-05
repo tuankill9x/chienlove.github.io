@@ -210,11 +210,11 @@ Section: Tweaks
 Maintainer: Chienlove
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
 Filename: ./debs/net.storeios.shadow_2.0.20_iphoneos-arm.deb
-Size: 252188
-MD5sum: 063f17e869c6d9a140fa74a858ee917a
-SHA1: b76958d0c87476f1141ce1cf9da99afc6d063df5
-SHA256: 19948fb40b948c507fccf15c4ae18e0e91e88e67539a690cd6f29772f866061c
-SHA512: a19dce815809e0357982357c6a0b042c5c6c77608a3d755c939dc7cd0c3388b49449d6a9c84b37aeaf7a33338a1f4a547727c7878b267a1c8fd9bcf031e74a8f
+Size: 252074
+MD5sum: cafd3ce00cfcb24994387fdd33ba5f99
+SHA1: e6ab12924d28c0511d93ac8132f5abf9d55ca68b
+SHA256: 83d2edfc08b14876703435bf0e8a2e8c1d6598dbd58f289e89111ddd5836a17c
+SHA512: 87365512014882a3f09593a14953759e016a683a249a8b2007bfd0034c93ee33d5f5e5e7f4fc8e8e25ecd18f51d2581ba3e76e134c9f0983e47308cc290d1ff1
 Description: Chặn phát hiện jailbreak trong các ứng dụng.
 Name: Shadow VH
 Author: jjolano <jjolano@me.com>
