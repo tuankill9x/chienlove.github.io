@@ -203,6 +203,23 @@ Name: ScreenRecorderForcedAudio
 Author: Kiran Patil
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.screenrecorderforeaudio
 
+Package: net.storeios.shadow
+Architecture: iphoneos-arm
+Version: 2.0.20
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/net.storeios.shadow_2.0.20_iphoneos-arm.deb
+Size: 252188
+MD5sum: 063f17e869c6d9a140fa74a858ee917a
+SHA1: b76958d0c87476f1141ce1cf9da99afc6d063df5
+SHA256: 19948fb40b948c507fccf15c4ae18e0e91e88e67539a690cd6f29772f866061c
+SHA512: a19dce815809e0357982357c6a0b042c5c6c77608a3d755c939dc7cd0c3388b49449d6a9c84b37aeaf7a33338a1f4a547727c7878b267a1c8fd9bcf031e74a8f
+Description: Chặn phát hiện jailbreak trong các ứng dụng.
+Name: Shadow VH
+Author: jjolano <jjolano@me.com>
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.shadow
+
 Package: net.storeios.sneakycam
 Architecture: iphoneos-arm
 Version: 2.0.4

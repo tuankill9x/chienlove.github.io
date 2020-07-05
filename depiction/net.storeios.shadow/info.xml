@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.shadow</id>
+	<name>Shadow VH</name>
+	<version>2.0.20</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+          <maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này giúp chặn các ứng dụng phát hiện jailbreak</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
