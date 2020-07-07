@@ -5,5 +5,10 @@
 			<url>https://facebook.com/storeios.net</url>
 			<iconclass>fa fa-facebook</iconclass>
 		</link>
+      <link>
+			<name>Trang web của tôi</name>
+			<url>https://storeios.net</url>
+			<iconclass>fa fa-web</iconclass>
+		</link>
 	</footerlinks>
 </repo>
