@@ -177,16 +177,17 @@ Version: 4.1
 Section: Tweaks
 Maintainer: Saunders Tech
 Depends: mobilesubstrate
+Conflicts: com.saunderstech.pandavipthree
 Filename: ./debs/net.storeios.pandavip_4.1_iphoneos-arm.deb
-Size: 52384098
-MD5sum: 59e1860a42b4546c908f48663227512c
-SHA1: 23583d44e39d69499b6a131aed2c896ddcbc2a6a
-SHA256: d0cab77cc7120b60fd4fec5a99b73ca6bd9b50e0d9fffc8ccb4df0bf3b636e7d
-SHA512: 563dba8dbf2f97782caee284d0fe763af82642e22801e34534c2c3f54356194be9469cfcafb8ac810c599a5480debfa5023f73e7ec6c23bf72e7ed3a9ce0a431
-Description: Panda Helper VIP. Kho ứng dụng & game hack cho iOS.
+Size: 52384050
+MD5sum: 7504fb323aa84cd11bf005706a5b4323
+SHA1: 6dc7212bc7c5a24620b120566278cf483e3d2855
+SHA256: 5c123fd984149e63d73dcccf985494a995a834ad13bf88da3e93480c63253d95
+SHA512: a73bfea6e64ed228e7837171a6cf70dcf58d9036fda5a5ca374692d63b6d99c69d0e3404d6c74bde2b61eaa07c0e432b18650641169f7bfb312f592680d0ab94
+Description: Panda Helper VIP Patched! Features: FULL VIP!
 Name: Panda Helper VIP
 Author: Saunders Tech
-Depiction: https://repo.cydiaviet.tk/depiction/?p=net.storeios.pandavip
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.pandavip
 
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
