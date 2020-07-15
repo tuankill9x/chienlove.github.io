@@ -177,13 +177,12 @@ Version: 4.1
 Section: Tweaks
 Maintainer: Saunders Tech
 Depends: mobilesubstrate
-Conflicts: com.saunderstech.pandavipthree
 Filename: ./debs/net.storeios.pandavip_4.1_iphoneos-arm.deb
-Size: 52384088
-MD5sum: 69dac4259f6ae1426e9b1d799b6bda61
-SHA1: e1d1c722c59428aa8676749286add81abcee4b98
-SHA256: 506fa04bc5e51bd4af4c72468f666e5d5a6031ccddc6eb93c4b6567ab3d316cf
-SHA512: 97f091593eb677c642a954f826377b07686eac3df3d9d370ffc940890cdabe887a5d128288c516085df689156115a1b9169419396569092f3f5a9dd8a0aa6e57
+Size: 52384106
+MD5sum: fd709dc3966707f6297cc3fa4f67578a
+SHA1: 0ca981e899174facb9853357be2ed3146377403b
+SHA256: 5ff48b9ec2f6b169775eaf2509eed01ab339d1219aeeb78bb037e2ca178298ce
+SHA512: 3f6d84297c2a40b4039fed95f16e37ad6be49369ab87100f90a4e589b17d4d77cb9e48604fca148217db21f30f982a444c8afa7f90b1eec2c1e6575105cce317
 Description: Panda Helper VIP. Kho ứng dụng & game hack cho iOS.
 Name: Panda Helper VIP
 Author: Saunders Tech
