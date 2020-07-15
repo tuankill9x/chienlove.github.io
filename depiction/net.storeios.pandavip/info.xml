@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.pandavip</id>
+	<name>Panda Helper VIP</name>
+	<version>4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+          <maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Panda Helper VIP. Kho ứng dụng & game bản quyền đã hack vip cho iOS. Bản Panda Helper này đã được hack để trở thành thành viên VIP của Panda.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

@@ -171,6 +171,24 @@ Name: NotchStatusbar iPhoneX VH
 Author: Acreson
 Sponsor: niceios
 
+Package: net.storeios.pandavip
+Architecture: iphoneos-arm
+Version: 4.1
+Section: Tweaks
+Maintainer: Saunders Tech
+Depends: mobilesubstrate
+Conflicts: com.saunderstech.pandavipthree
+Filename: ./debs/net.storeios.pandavip_4.1_iphoneos-arm.deb
+Size: 52384088
+MD5sum: 69dac4259f6ae1426e9b1d799b6bda61
+SHA1: e1d1c722c59428aa8676749286add81abcee4b98
+SHA256: 506fa04bc5e51bd4af4c72468f666e5d5a6031ccddc6eb93c4b6567ab3d316cf
+SHA512: 97f091593eb677c642a954f826377b07686eac3df3d9d370ffc940890cdabe887a5d128288c516085df689156115a1b9169419396569092f3f5a9dd8a0aa6e57
+Description: Panda Helper VIP. Kho ứng dụng & game hack cho iOS.
+Name: Panda Helper VIP
+Author: Saunders Tech
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.pandavip
+
 Package: net.storeios.prysm
 Architecture: iphoneos-arm
 Version: 1.0.2
