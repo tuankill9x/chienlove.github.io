@@ -89,19 +89,19 @@ Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dayn
 Package: net.storeios.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 11.3.1
-Section: Tool
+Section: Tweaks
 Maintainer: Chienlove
 Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
 Filename: ./debs/net.storeios.dlgmemorinjected_11.3.1_iphoneos-arm.deb
-Size: 264286
-MD5sum: f90a389ee7393efadb0411c40c3a9d65
-SHA1: 0924b709a2077320d7f59c46dab59d6687c0bd01
-SHA256: 61a8b8922cd5158e95979b126d1dcaf0b3f6b8b1f34fd3239550001547e4ac9a
-SHA512: 5b8c4a5a9e74612c9fffd5b757c2e1c80babedeecefce14b6eb1a2608b7b06274c0dabc3e5c12b422f3c45e7b71a69930e94d1fb29f247b089a9cdc09e219d6b
+Size: 264282
+MD5sum: 9c442544b53cb3266c5e648905afa779
+SHA1: 5857dcd0a47f50348ddab8620d8b8cf8785d020a
+SHA256: 8d81769f8050cb08fc404aa36aaad34a9c8becbe7b6c3ba9aa0ebf7a1e4b0430
+SHA512: 3342b5cd6b568cd6dcaf1a0cd7fce5d11e459907dd314da168f290fa020938c219f1bce27eeedc8ccbb6f2b50ec14bf44b0a6c3f7ecf2ddc6b7495e6b446b4be
 Description: Injection library that allows you to alter memory in app.
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
-Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dlgmemoinjected
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dlgmemorinjected
 
 Package: net.storeios.flyjb
 Architecture: iphoneos-arm
