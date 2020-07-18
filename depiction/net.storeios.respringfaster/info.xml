@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.respringfaster</id>
+	<name>RespringFaster VH</name>
+	<version>0.0.1-6+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+          <maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Khởi động lại thiết bị nhanh bằng cách bấm nhiều lần vào nút tăng hoặc giảm âm lượng. Thiết lập số lần bấm trong cài đặt.</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>respringfaster.png</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

@@ -205,6 +205,23 @@ Name: Prysm
 Author: LaughingQuoll
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.prysm
 
+Package: net.storeios.respringfaster
+Architecture: iphoneos-arm
+Version: 0.0.1-6+debug
+Section: Tweaks
+Maintainer: @CrazyMind90
+Depends: mobilesubstrate
+Filename: ./debs/net.storeios.respringfaster_0.0.1-6+debug_iphoneos-arm.deb
+Size: 27854
+MD5sum: 0fc3c291b9691b9d28c9b6c7c89ad05e
+SHA1: 7242130d015f0fb4e65879d5830cec6f747c6db5
+SHA256: bfb591b1a4bb325bf9012856e6ee7aa76d290683323b3e9475741d00e2fbaf73
+SHA512: 297df63e93b952862b1d94b4dec1dac71b89251d7b76aa98a06fc629418ba690d54f7bbda05b24fc856933176640c788d5964568952bb567d40f23164e882771
+Description: An awesome MobileSubstrate tweak!
+Name: RespringFaster VH
+Author: @CrazyMind90
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.respringfaster
+
 Package: net.storeios.screenrecorderforcedaudio
 Architecture: iphoneos-arm
 Version: 1.0-3
