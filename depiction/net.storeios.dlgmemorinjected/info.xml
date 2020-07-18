@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.dlgmemorinjected</id>
+	<name>Shadow VH</name>
+	<version>11.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+          <maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thư viện tiêm cho phép bạn thay đổi bộ nhớ trong ứng dụng.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
