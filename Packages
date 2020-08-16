@@ -121,6 +121,25 @@ Author: XsF1re
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.flyjb
 
+Package: net.storeios.indy
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Chienlove <storeios.net>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/net.storeios.indy_1.0.1_iphoneos-arm.deb
+Size: 832372
+MD5sum: 50c3d111b1914c18d6a5cf68fdb86122
+SHA1: 912a92de0d8f7be8e892b0d3a95402e29c7f1e93
+SHA256: 021c6587b2bc02ab252414131edc1c623e95d7f671a0245c45416392e684712a
+SHA512: 674e36da3d89082315092154b42af1d2342ea48aa95d1a925754bfab873fafae3adc568e7df86a290c405114ce8f1e62ffd6bb5a001388725bfe6faf92f0f699
+Description: Control from your status bar.
+Tag: compatible_min::ios13.0
+Name: Indy VH
+Author: burrit0z <burrit0ztweaks@gmail.com>
+Icon: https://chariz.com/cdn/icon/indy/icon@3x.png
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.indy
+
 Package: net.storeios.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
