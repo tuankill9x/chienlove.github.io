@@ -10,20 +10,37 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/chienlove/chienlove.github.io/releases/download/MonokaiToolkit/MonokaiToolkit.ipa</string>
+					<key>url</key>https://github.com/chienlove/chienlove.github.io/releases/download/MonokaiToolkit/MonokaiToolkit.ipa</string>
 				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://storeios.net/images/icon.png</string>
+	            </dict>
+	            <dict>
+	                <key>kind</key>
+	                <string>full-size-image</string>
+	                <key>needs-shine</key>
+	                <false/>
+	                <key>url</key>
+	                <string>https://storeios.net/images/Icon.png</string>
+	            </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>freeapp@storeios.net</string>
+				<string>net.storeios.monokaitoolkit</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>4.5.6</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+                <string>storeios Inc</string>
 				<key>title</key>
-				<string>MonokaiToolkit For iOS by StoriOS.NET</string>
+				<string>MonokaiToolkit 4.5.6 by Storeios.Net</string>
 			</dict>
 		</dict>
 	</array>
