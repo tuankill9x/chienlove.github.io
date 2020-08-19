@@ -32,7 +32,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.storeios.monokaitoolkit</string>
+				<string>com.nstudio.mtoolkit</string>
 				<key>bundle-version</key>
 				<string>4.5.6</string>
 				<key>kind</key>
