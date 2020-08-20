@@ -180,11 +180,12 @@ Section: Tweaks
 Maintainer: StoreiOS
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/net.storeios.myiapcracker_0.1.11_iphoneos-arm.deb
-Size: 612108
-MD5sum: a1da13c64d2b6d7faaaeba359066dfa0
-SHA1: 93499e961bbb1ba24a497e63d4115d11b8bd3c0f
-SHA256: 85a7612c79c2df13c575a3e8d3f9d47548f9005dd0c0a1e98250e9fd90f71cc0
-SHA512: c869c1529a32283545643ebf35950a4e73d27cf9a933601ddc98bcb6fbc5458ddf466e5e46e6a82f1e3aff7b1c3695fd6287312610a9a1dfd4f68ecf0dac75ca
+Size: 612180
+MD5sum: 75b2f27234f991d1a6b9652883973d22
+SHA1: f91eaad61daba7fd1f2ca35b8ac473fc12c043b2
+SHA256: f18c5ab6ffb4ca8d803d52c652433f12052fbd4f89a15202966c3aa28800ec90
+SHA512: 3011c8a06d45425e16448c9225e8a9b250b6a8056f63ce8611aa4c6a4bc196582aed7ac3afcbbdb2ddcaacaf3a5f990f96b9d8b31967fd9669a3a8d3c910a808
+Description: Hack mua in-app tính năng các ứng dụng trên AppStore.
 Name: My IAP CRACKER 2
 Author: stem grade
 Sponsor: kiiimo.org <http://kiiimo.org>
