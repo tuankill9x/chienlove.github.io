@@ -1,0 +1,21 @@
+<package>
+	<id>net.storeios.myipacracker</id>
+	<name>MyipaCracker</name>
+	<version>0.1.11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+          <maxiOS>13.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description> Mua ứng dụng MIỄN PHÍ sẽ không hoạt động trên mọi trò chơi hoặc ứng dụng nhưng hoạt động trên nhiều trò chơi và ứng dụng hoặc bạn có thể làm điều này, hãy thử xem nó có hoạt động với trò chơi hoặc ứng dụng của bạn không.
+Để kích hoạt bản vá hack, hãy vào cài đặt và tìm myiapcracker, hãy nhấp vào đó và bật bản hack cộng với đọc thông tin ở phía dưới và đảm bảo ứng dụng bạn muốn hack đã được cài đặt.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>
