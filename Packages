@@ -128,11 +128,11 @@ Section: Tweaks
 Maintainer: Chienlove <storeios.net>
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/net.storeios.indy_1.0.1_iphoneos-arm.deb
-Size: 832372
-MD5sum: 50c3d111b1914c18d6a5cf68fdb86122
-SHA1: 912a92de0d8f7be8e892b0d3a95402e29c7f1e93
-SHA256: 021c6587b2bc02ab252414131edc1c623e95d7f671a0245c45416392e684712a
-SHA512: 674e36da3d89082315092154b42af1d2342ea48aa95d1a925754bfab873fafae3adc568e7df86a290c405114ce8f1e62ffd6bb5a001388725bfe6faf92f0f699
+Size: 832652
+MD5sum: df3c7c58c0187305a4db5400b88e6b0d
+SHA1: 9dcc3c31d1eccd8d78dbf39a2f691183ef9faba1
+SHA256: f03a81d8026a16e2864ac7c6c2c704f56506acdc82f5721b79273e5425b5baad
+SHA512: f345d7bf4228fb1e120bdc486456ea2de605e18d9b5308fc0941d1cc590c6196461bf33b1d80c9734a665adff685fba0d3e00277249c325d0ae1b0f6399247b9
 Description: Control from your status bar.
 Tag: compatible_min::ios13.0
 Name: Indy VH
