@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.storeios.msglite</string>
+				<string>net.storeios.spectra</string>
 				<key>bundle-version</key>
-				<string>170.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
                 <string>storeios Inc</string>
 				<key>title</key>
-				<string>Messenger Lite by Storeios.Net</string>
+				<string>Spectra by Storeios.Net</string>
 			</dict>
 		</dict>
 	</array>
