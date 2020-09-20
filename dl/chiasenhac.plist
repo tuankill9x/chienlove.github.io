@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chienlove/chienlove.github.io/releases/download/Chiasenhac/Chiasenhac.ipa</string>
+				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://dl.dropbox.com/s/36ex0s4e3q0otg9/Photo%2011%2024%2011%2C%2030-03-2019.png</string>
+	            </dict>
+	            <dict>
+	                <key>kind</key>
+	                <string>full-size-image</string>
+	                <key>needs-shine</key>
+	                <false/>
+	                <key>url</key>
+	                <string>https://dl.dropbox.com/s/36ex0s4e3q0otg9/Photo%2011%2024%2011%2C%2030-03-2019.png</string>
+	            </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>net.storeios.chiasenhac</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+                <string>Storeios Inc</string>
+				<key>title</key>
+				<string>Chiasenhac by StoreiOS.Net</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
