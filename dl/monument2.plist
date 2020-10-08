@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chienlove/chienlove.github.io/releases/download/Monument2/Monument2.ipa</string>
+				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/4e/33/9c/4e339ca7-aa2c-a47e-51cb-27fe1139d1d8/source/350x350bb.jpg</string>
+	            </dict>
+	            <dict>
+	                <key>kind</key>
+	                <string>full-size-image</string>
+	                <key>needs-shine</key>
+	                <false/>
+	                <key>url</key>
+	                <string>https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/4e/33/9c/4e339ca7-aa2c-a47e-51cb-27fe1139d1d8/source/350x350bb.jpg</string>
+	            </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>net.storeios.monument2</string>
+				<key>bundle-version</key>
+				<string>1.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+                <string>Storeios Inc</string>
+				<key>title</key>
+				<string>ZingPlay - Chiến Loạn by StoreiOS.Net</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

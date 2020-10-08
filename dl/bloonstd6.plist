@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/chienlove/chienlove.github.io/releases/download/BloonsTD6/Bloons_TD6.ipa</string>
+				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/80/13/a7/8013a716-5736-2c63-cf63-4b9096ca9187/source/350x350bb.jpg</string>
+	            </dict>
+	            <dict>
+	                <key>kind</key>
+	                <string>full-size-image</string>
+	                <key>needs-shine</key>
+	                <false/>
+	                <key>url</key>
+	                <string>https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/80/13/a7/8013a716-5736-2c63-cf63-4b9096ca9187/source/350x350bb.jpg</string>
+	            </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>net.storeios.bloonstd6</string>
+				<key>bundle-version</key>
+				<string>1.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+                <string>Storeios Inc</string>
+				<key>title</key>
+				<string>ZingPlay - Chiến Loạn by StoreiOS.Net</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
