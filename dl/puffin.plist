@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>net.storeios.puffin</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>5.4.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
                 <string>Storeios Inc</string>
 				<key>title</key>
-				<string>ZingPlay - Chiến Loạn by StoreiOS.Net</string>
+				<string>Puffin Browser Pro by StoreiOS.Net</string>
 			</dict>
 		</dict>
 	</array>

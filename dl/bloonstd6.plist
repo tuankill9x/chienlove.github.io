@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>net.storeios.bloonstd6</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>16.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
                 <string>Storeios Inc</string>
 				<key>title</key>
-				<string>ZingPlay - Chiến Loạn by StoreiOS.Net</string>
+				<string>Bloons TD 6 by StoreiOS.Net</string>
 			</dict>
 		</dict>
 	</array>
