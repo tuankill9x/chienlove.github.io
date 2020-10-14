@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.VideoAdsSpeed</id>
+	<name>VideoAdsSpeed VH</name>
+	<version>1.0.4-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Nhanh chóng bỏ qua quảng cáo video tặng thưởng trong trò chơi và ứng dụng không cần đợi 15 giây trở lên, nhận ngay phần thưởng...</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>VideoAdsSpeed1.jpg</image></screenshot><screenshot><description></description><image>VideoAdsSpeed2.png</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

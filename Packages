@@ -1,3 +1,24 @@
+Package: net.storeios.VideoAdsSpeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/net.storeios.VideoAdsSpeed_1.0.4-3_iphoneos-arm.deb
+Size: 205726
+MD5sum: dcf413360804271464843b492a8b92e9
+SHA1: af2b8d7a1771ca1be114875b61d90e7f19e5514e
+SHA256: 10078d9fe86c575f73107de0c23428e5da808dbfe8e2b5d0f464f1a18d78124f
+SHA512: 9c6e3342ad8a224227221577ab7d8c40a6f42bdb7e4eafdefb3745e78f189f4ea9385891e5e5754311eee608d6eac076bfc71ac71c990bce51a32e051fc7a786
+Description: Tua nhanh video quảng cáo trong ứng dụng và trò chơi.
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Depiction: https://Chienlove.github.io/depiction/?=net.storeios.VideoAdsSpeed
+Author: lenglengyu <lenglengyu@126.com>
+Name: VideoAdsSpeed VH
+dev: lenglengyu
+Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
+
 Package: net.storeios.appcake
 Architecture: iphoneos-arm
 Version: 6.1.3
