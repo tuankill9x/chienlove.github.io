@@ -1,0 +1,19 @@
+<package>
+	<id>net.storeios.translation</id>
+	<name>Translation VH</name>
+	<version>1.4.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Translation là plugin dịch nhanh văn bản và tài liệu</description>
+	</descriptionlist>
+<screenshots><screenshot><description></description><image>translation.png</image></screenshot></screenshots>
+	<changelog>
+	</changelog>
+	<links></links>
+</package>

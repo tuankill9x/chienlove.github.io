@@ -515,6 +515,26 @@ Name: Titan VH
 Author: tcbrooks
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.titan/
 
+Package: net.storeios.translation
+Architecture: iphoneos-arm
+Version: 1.4.8
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/net.storeios.translation_1.4.8_iphoneos-arm.deb
+Size: 162484
+MD5sum: bee8151fc2ae3aeea244cfdbbceb3c8e
+SHA1: dbe36c2e1dca80ed8ec5a60d49beb40e9eb5ebbd
+SHA256: 828be5c947e38d9306784a3cac0e82e4a778c1795e732b498a8b0226353be5cc
+SHA512: e849693cc69e688e6ff9c5158ab490bc094fd1fbd753b17354f780ee1c2d2a25ae90c5b9dbfccc985e9c2ed39d31fa259ca4977615794f0a7bf641105af264f9
+Description: Translation là một plugin dịch nhanh văn bản các ngôn ngữ bằng google dịch.
+Tag: purpose::extension
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.translation
+Author: Sky - Pain <2398453359@qq.com>
+Name: Translation VH
+dev: skypain
+Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
+
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
 Version: 1.2.9
