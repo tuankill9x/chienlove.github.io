@@ -535,6 +535,26 @@ Name: Translation VH
 dev: skypain
 Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
 
+Package: net.storeios.translation
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/net.storeios.translation_1.4.9_iphoneos-arm.deb
+Size: 179508
+MD5sum: 953725295f8287fd49ef6a6e4fe236ea
+SHA1: cb4d67b4a1daab62e4cfbd0e9d37aac713bf4b46
+SHA256: 9c882e5c27cef54526d7141e6bfb2a915026707795f022a9099c88769b22d46f
+SHA512: f794eae39acf0e3153b8db26bca3e0826bdb18112361540b5ab1bc517dafd34ca3d198ac7b3b80e2fcc7f8fe30f05c7545cfd59e3da0407ec7d7a752ad4a3596
+Description: Translation là plugin dịch các ngôn ngữ.
+Tag: purpose::extension
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.translation
+Author: Sky - Pain <2398453359@qq.com>
+Name: Translation VH
+dev: skypain
+Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
+
 Package: net.storeios.ultrasound
 Architecture: iphoneos-arm
 Version: 1.2.9
