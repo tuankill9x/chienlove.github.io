@@ -11,17 +11,17 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Là một tweak tốt nhất cho ứng dụng TikTok</description>
- <description><h5>Chức năng:</h5></description>
- <description>- Xoá quảng cáo </description>
- <description>- Cho phép tải xuống tất cả các video </description>
- <description>- Tải xuống video không có logo </description>
- <description>- Tự động cuộn sang video tiếp theo </description>
- <description>- Thay đổi vùng (Có thể không hoạt động trên iPad và một số thiết bị ) </description>
- <description>- Hiển thị thanh tiến trình (để tua nhanh hoặc tua lại video) </description>
- <description>- Có thể ẩn UI (Xem video ở chế độ toàn màn hình) </description>
- <description>- Hỗ trợ iOS 10 (chưa test ) - 11 (Đã test) - 12 (Đã test) - 13 (Đã test) </description>
- <description>- Hỗ trợ phiên bản TikTok mới nhất (Nếu không hoạt động bạn nên cập nhật ứng dụng lên phiên bản mới mới nhất.  >= 15.9.0)</description>
+		<![CDATA[Là một tweak tốt nhất cho ứng dụng TikTok
+ <h5>Chức năng:</h5><ul>
+ <li>- Xoá quảng cáo </li>
+ <li>Cho phép tải xuống tất cả các video </li>
+ <li>Tải xuống video không có logo </li>
+ <li>Tự động cuộn sang video tiếp theo </li>
+ <li>Thay đổi vùng (Có thể không hoạt động trên iPad và một số thiết bị ) </li>
+ <li>Hiển thị thanh tiến trình (để tua nhanh hoặc tua lại video) </li>
+ <li>Có thể ẩn UI (Xem video ở chế độ toàn màn hình) </li>
+ <li>Hỗ trợ iOS 10 (chưa test ) - 11 (Đã test) - 12 (Đã test) - 13 (Đã test) </li>
+ <li>- Hỗ trợ phiên bản TikTok mới nhất (Nếu không hoạt động bạn nên cập nhật ứng dụng lên phiên bản mới mới nhất.  >= 15.9.0)</li></ul>]]>
 	</descriptionlist>
 <screenshots></screenshots>
 	<changelog>
