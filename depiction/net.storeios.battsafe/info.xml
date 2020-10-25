@@ -1,0 +1,20 @@
+<package>
+	<id>net.storeios.battsafe</id>
+	<name>MyipaCracker</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+          <maxiOS>13.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description><![CDATA[Kiểm soát mức độ sạc pin BattSafe cho phép bạn kiểm soát mức phần trăm pin sẽ ngừng sạc. <br>Dừng sạc ở % pin được chỉ định. Chỉ tương thích với iPhone chạy iOS 13+.  Không tương thích với iPad.]]></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog><change>Đã sửa lỗi không hoạt động trên một số thiết bị</change>
+	</changelog>
+	<links></links>
+</package>
