@@ -11,7 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Kiểm soát mức độ sạc pin BattSafe cho phép bạn kiểm soát mức phần trăm pin sẽ ngừng sạc. Dừng sạc ở % pin được chỉ định. Chỉ tương thích với iPhone chạy iOS 13+.  Không tương thích với iPad.</description>
+		<description><![CDATA[<b>Kiểm soát</b> mức độ sạc pin BattSafe cho phép bạn kiểm soát mức phần trăm pin sẽ ngừng sạc. <br>Dừng sạc ở % pin được chỉ định. Chỉ tương thích với iPhone chạy iOS 13+.  Không tương thích với iPad.]]></description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog><change>Đã sửa lỗi không hoạt động trên một số thiết bị</change>
