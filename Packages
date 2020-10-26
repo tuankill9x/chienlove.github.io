@@ -60,13 +60,13 @@ Architecture: iphoneos-arm
 Version: 1.1.2
 Section: Tweaks
 Maintainer: Chienlove
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), com.udevs.runroot
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), net.storeios.runroot
 Filename: ./debs/net.storeios.battsafe_1.1.2_iphoneos-arm.deb
 Size: 121742
-MD5sum: 5018bfcac9dbf53711d85c1cf641d9e3
-SHA1: d35d8bd1d94d1d9572c09dd160b51dede52e9265
-SHA256: d9cd6e1970699b72132f5b1f8cb11e010f77afc62a2f2d7cdb3a4382978970e3
-SHA512: f3b8b6e6409c49e72f402980d51556e26278c01d924ae754c0f6c79b971b5d8da192f08877a2fed130600970cc99387230348fbe713ae4fa5c95aa1da3af0733
+MD5sum: 650f79cc44aa60c66fa4b747e60ce6f6
+SHA1: 835e58f2bcaa3df34eaf0a73a22d412fb4a966a0
+SHA256: 278c5e283669e13ee350ad9724b664c6eab98633b4a3181c149f9466ccee864a
+SHA512: 5bdfd43c474a2028023d1cbd9990f381ce888ffe8183b288318200bcf0767dd900487b43142ce16890225c68de432873fc6c7d57b6af6510551d1e24a9b68d02
 Description: Controls battery charging level
 Name: BattSafe VH
 Author: udevs
@@ -297,6 +297,22 @@ Description: An awesome MobileSubstrate tweak!
 Name: RespringFaster VH
 Author: @CrazyMind90
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.respringfaster
+
+Package: net.storeios.runroot
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: Chienlove
+Filename: ./debs/net.storeios.runroot_0.0.2_iphoneos-arm.deb
+Size: 9394
+MD5sum: 642ad99cd5ffebfd7580c13106d66945
+SHA1: f48ff38b9b7d70b7dff29034c44199101d6aafc0
+SHA256: 9a60e3c562be6a27c5cfa9e13b5d233c012ed34acdf387900357b796e629e249
+SHA512: 167e0dc7b4e17dfc938b71825dc477f86462acc937369fa4598e2f94bec793dcc7f28bfc9a299a1433e63ab42ac653eef3e40e7b9fab7e4639afa40b8ed9334d
+Description: Chạy lệnh dưới quyền root
+Tag: role::hacker
+Name: runroot
+Author: udevs
 
 Package: net.storeios.screenrecorderforcedaudio
 Architecture: iphoneos-arm
