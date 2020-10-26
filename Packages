@@ -142,6 +142,23 @@ Name: DLGMemor Injected
 Author: AnonymousxiosdeV
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dlgmemorinjected
 
+Package: net.storeios.escape
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.storeios.escape_1.4_iphoneos-arm.deb
+Size: 280310
+MD5sum: 81a53d700d3a2964baaa30adce674822
+SHA1: 2c92810f33abde177b253f36f7b5d234bfd6ca7b
+SHA256: bfd9b76506dff779d7136be81c5e34365e53914ea05c0001f0160a68ff8f26d0
+SHA512: 0aa5571d19f0eb5fb9d399cb9f8d4cdc937df10be1ea5354e6ca84435f16bea9851de3384a1cdf5f88ad793a52cb164314e4845731ad1ffbe2c21966116e6a66
+Description: Thoát khỏi những người phiền phức!
+Name: Escape VH
+Author: Plat-Ykor<plat-ykor@libero.it>
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.escape
+
 Package: net.storeios.flyjb
 Architecture: iphoneos-arm
 Version: 0.2.5.6
