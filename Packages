@@ -149,11 +149,11 @@ Section: Tweaks
 Maintainer: Chienlove
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/net.storeios.escape_1.4_iphoneos-arm.deb
-Size: 280310
-MD5sum: 81a53d700d3a2964baaa30adce674822
-SHA1: 2c92810f33abde177b253f36f7b5d234bfd6ca7b
-SHA256: bfd9b76506dff779d7136be81c5e34365e53914ea05c0001f0160a68ff8f26d0
-SHA512: 0aa5571d19f0eb5fb9d399cb9f8d4cdc937df10be1ea5354e6ca84435f16bea9851de3384a1cdf5f88ad793a52cb164314e4845731ad1ffbe2c21966116e6a66
+Size: 281040
+MD5sum: a73e9ca7c91466e6c3178b0b5acbb79c
+SHA1: 7ce61223203a6e05d786590d3871c6b14c37f946
+SHA256: 639122eee57c948267f76978e7165f85d714d81ce596e69c06e0ffb8475c517e
+SHA512: a0e781ae9c1915e14f4aebd0de200cf91ea730bba523c3cde6553eb51aabd4a93c20749dde1bcfbf70b9844928271493b7d215c917996281fae185b3436ba799
 Description: Thoát khỏi những người phiền phức!
 Name: Escape VH
 Author: Plat-Ykor<plat-ykor@libero.it>
