@@ -144,6 +144,23 @@ Depiction: https://chienlove.github.io/depiction/?p=net.storeios.dlgmemorinjecte
 
 Package: net.storeios.escape
 Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.storeios.escape_1.4.5_iphoneos-arm.deb
+Size: 281970
+MD5sum: f73590e04a3e0b15fd6976cf37d0fccb
+SHA1: 36211a3184d1352925e784af476c24dbd3f7a838
+SHA256: 7a5945739f213341bf5bafacc9ea40ade3d5c5fab5ef009a0e5341ab85fe1e2d
+SHA512: 63362889d70914cb6939139a14d4e2edb21b60c7cd5475c66d77421df05c816d981ec65935914767711942d9a11ec66551235cdce72991c7c2e78065dbe882a0
+Description: Thoát khỏi những người phiền phức!
+Name: Escape VH
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.escape
+
+Package: net.storeios.escape
+Architecture: iphoneos-arm
 Version: 1.4
 Section: Tweaks
 Maintainer: Chienlove
