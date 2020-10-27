@@ -2,7 +2,7 @@
 	<id>net.storeios.titan</id>
 	<name>Titan VH</name>
 	<version>1.0.1</version>
- <div class="gooWidget google-ad-leaderboard">
+  <![CDATA[<div class="gooWidget google-ad-leaderboard">
                  <div class="advertisement-text">Advertisement</div>
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ads download -->
@@ -13,7 +13,7 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script> 
- </div>
+ </div>]]>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
