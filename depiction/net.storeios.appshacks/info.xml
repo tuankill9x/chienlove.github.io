@@ -15,6 +15,7 @@
  </descriptionlist>
 <screenshots><screenshot><description></description><image>appshacks_1.jpg</image></screenshot><screenshot><description></description><image>appshacks_2.jpg</image></screenshot><screenshot><description></description><image>appshacks_3.jpg</image></screenshot></screenshots>
 	<changelog>
+    <change>• Sự cố crash một số ứng dụng đã được khắc phục<br>• Tính năng hủy quảng cáo đã được thêm vào một số ứng dụng<br>• Mã của một số ứng dụng đã được sửa đổi<br> Một thể loại mới đã được thêm vào<br>• Nhiều chương trình mới đã được thêm vào.</change>
 	</changelog>
 	<links></links>
 </package>
