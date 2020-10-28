@@ -1,3 +1,4 @@
+<![[CDATA[<a href="https://chienlove.github.io">Về trang chủ</a>]]>
 <package>
 	<id>net.storeios.indy</id>
 	<name>Indy VH</name>
@@ -10,17 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description><![CDATA[<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Ads appcuios 01 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3905625903416797"
-     data-ad-slot="4575220124"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>Kiểm soát từ thanh trạng thái của bạn.
+		<description><![CDATA[Kiểm soát từ thanh trạng thái của bạn.
  Thanh trạng thái trong kho iOS được cho là một trong những phần được sử dụng ít nhất của hệ điều hành.  Indy mang lại chức năng cho thanh trạng thái của bạn một cách rõ ràng, không phô trương.  Nhấn vào các phần tử thanh trạng thái nhất định để hiển thị các menu với thông tin hữu ích.  Các menu đó sau đó có thể được khai thác để hiển thị nhiều hơn nữa.  Một số menu cụ thể thậm chí có các tính năng đặc biệt có thể truy cập bằng cách nhấn và giữ! <br><br>
  <b> Danh sách tính năng</b><br><br> 
      • Menu thời gian</br>
