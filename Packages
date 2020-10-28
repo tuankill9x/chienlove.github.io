@@ -45,11 +45,28 @@ Section: Tweaks
 Maintainer: hmodei96
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/net.storeios.appshacks_3.0-1_iphoneos-arm.deb
-Size: 1732776
-MD5sum: 22ddcaac118f32b852bbe7ca99b2ffa2
-SHA1: a2f07aa56f92900e38674cd018e40adc21cefe98
-SHA256: cf5010eb1ac9991a8fed704670ee10f0fd8526ea352e03ed5afbc23fef99dfab
-SHA512: 97940d8e60667ebd40c34db226bf139f0f18ea8dedfbcfe0b2d7c9479bc1d3954d0902c3281918b2b7a9e0da9caa27bfea453543c125b611e3f74e1c7ce5b67d
+Size: 3130530
+MD5sum: 2b8c0e14fc166ab1c659a8d46347e2d8
+SHA1: 95a244ca860497665439f7362d085709a6056dab
+SHA256: 2cf6c8bd9612070867f6f1c487e0ade91adbe4fc66a709222ec38c39635dafe5
+SHA512: 50bd5027f0ce1652731be1f4e274082963b6a77f24731b9c499c062e2c898ea6e765581920a41d55d7517352fc07747a051a08fa4b6c19f9b1615f7394c498b4
+Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
+Name: Apps Hacks
+Author: hmodei96
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
+
+Package: net.storeios.appshacks
+Architecture: iphoneos-arm
+Version: 4.2
+Section: Tweaks
+Maintainer: hmodei96
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/net.storeios.appshacks_4.2_iphoneos-arm.deb
+Size: 3130526
+MD5sum: 9fea869ca6eb8074983fefae89b27d18
+SHA1: 0459dba8ca9319409fa972ba2eeec5f95cbd6b0e
+SHA256: 306c75aee067a74b06f38615bedd9145e1a32f473374d9bf00188393fa6e4a20
+SHA512: 7ed6b78640effcadd87a12bfd00e9acadf7771d82be2198cfb42b7409362b96827c20b94225908a3b6ced3d95899e6479a3d34a3f0ef3dceea2b1fd55cd3f9a4
 Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
 Name: Apps Hacks
 Author: hmodei96

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # url configuration
-URL="https://chienlove.github.io/"
+URL="https:cydia.appcuios.tk/"
 
 # values: always hourly daily weekly monthly yearly never
 FREQ="weekly"
