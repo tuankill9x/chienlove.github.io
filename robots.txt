@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+# Disallowed Sub-Directories
+Disallow: /css/
+Disallow: /images/
+Disallow: /debs/
+Disallow: /depiction/
+Disallow: /debug_debs/
+Disallow: /dl/
