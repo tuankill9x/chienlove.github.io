@@ -74,6 +74,24 @@ Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
 
 Package: net.storeios.battsafe
 Architecture: iphoneos-arm
+Version: 1.1.2.1
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, firmware(>=13.0), net.storeios.runroot
+Filename: ./debs/net.storeios.battsafe_1.1.2.1_iphoneos-arm.deb
+Size: 121662
+MD5sum: 7c095d25c8cd9e59fd7f4da42ef873c0
+SHA1: 11a96eddcf247f8cce978a2735aa42a351e0a6c9
+SHA256: 9f9acf817784b2d1406f2bca07f7dc1dd7d6729c3ccfedd04d1550e34dd66d55
+SHA512: a12e295e4a9a69a58a4ea3351de6735c5b17f68ad72f7f9568ca63b4a880b80ed8f9ce71ec5cc044d76ede9a4b95ea9a4fbff3dabc23392eac185abb3ab73e3d
+Description: Controls battery charging level
+Name: BattSafe VH
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafe/icon/icon.png
+Depiction: https://chienlove.github.io/depiction/?p=net.storeios.battsafe
+
+Package: net.storeios.battsafe
+Architecture: iphoneos-arm
 Version: 1.1.2
 Section: Tweaks
 Maintainer: Chienlove
