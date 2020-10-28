@@ -10,10 +10,9 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Chụp ảnh và quay video từ bất cứ đâu. Ngay cả khi điện thoại bạn tắt màn hình</description>
- <h5>Hướng dẫn sử dụng</h5>
- <description>Chụp ảnh bằng cách bấm hai lần vào nút giảm âm lượng</description>
- <description>Bắt đầu và Dừng ghi bằng cách bấm hai lần vào nút tăng âm lượng</description></descriptionlist>
+		<description><![CDATA[Chụp ảnh và quay video từ bất cứ đâu. Ngay cả khi điện thoại bạn tắt màn hình.<br><br>
+ <h5>Hướng dẫn sử dụng</h5><br><br>Chụp ảnh bằng cách bấm hai lần vào nút giảm âm lượng.<br>
+Bắt đầu và Dừng ghi bằng cách bấm hai lần vào nút tăng âm lượng]]></description></descriptionlist>
 <screenshots></screenshots>
 	<changelog>
 	</changelog>

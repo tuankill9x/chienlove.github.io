@@ -10,31 +10,31 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Kiểm soát từ thanh trạng thái của bạn.
- Thanh trạng thái trong kho iOS được cho là một trong những phần được sử dụng ít nhất của hệ điều hành.  Indy mang lại chức năng cho thanh trạng thái của bạn một cách rõ ràng, không phô trương.  Nhấn vào các phần tử thanh trạng thái nhất định để hiển thị các menu với thông tin hữu ích.  Các menu đó sau đó có thể được khai thác để hiển thị nhiều hơn nữa.  Một số menu cụ thể thậm chí có các tính năng đặc biệt có thể truy cập bằng cách nhấn và giữ! </description>
- <description> Danh sách tính năng:</description>
- <description>• Menu thời gian</description>
-     <description>• Menu hiển thị ngày hiện tại</description>
-     <description>• Nhấn vào menu mở rộng để hiển thị lựa chọn của bạn về (a) ngày trong tuần hoặc (b) thành phố múi giờ hiện tại</description>
- <description>• Thanh nhà cung cấp dịch vụ / menu Nhãn nhà cung cấp dịch vụ</description>
-     <description>• Menu hiển thị tên nhà cung cấp dịch vụ</description>
-     <description>• Khi WiFi tắt, nhấn vào menu mở rộng sẽ hiển thị nút chuyển đổi WiFi</description>
-     <description>• Nhấn và giữ sẽ hiển thị VPN được kết nối hiện tại (nếu có) và biểu tượng ứng dụng cho VPN. </description>
- <description> Menu thanh tín hiệu WiFi:</description>
-     <description>• Menu hiển thị tên mạng WiFi được kết nối</description>
-     <description>• Nhấn vào sẽ hiển thị chuyển đổi WiFi</description>
-     <description>• Nhấn và giữ hiển thị chế độ xem lựa chọn WiFi của riêng trung tâm điều khiển</description>
- <description> Menu pin:</description>
-     <description>• Menu hiển thị phần trăm pin hiện tại</description>
-     <description>• Chạm vào hiển thị chế độ Nguồn điện thấp</description>
-     <description>• Nhấn và giữ sẽ hiển thị lựa chọn của bạn về (a) thanh trượt khởi động lại / khởi động lại hoặc (b) tình trạng pin ước tính hiện tại của bạn (trong một vài điểm phần trăm)</description>
- <description>• Chọn menu của Indy để bật </description>
- <description>• Định cấu hình vị trí dọc của menu Indy dọc theo thanh trạng thái </description>
- <description>• Tăng thời lượng cần thiết để đăng ký các lần nhấn dài </description>
- <description>• Chọn độ mờ tối / sáng </description>
- <description>• Chọn văn bản đen / trắng </description>
- <description>• Bật / tắt hiệu ứng làm mờ toàn màn hình khi sử dụng thanh trượt Indy Power (tương tự như menu nguồn iOS gốc) </description>
- <description>• Nhấn vào thanh trượt nguồn để chuyển đổi giữa chế độ khởi động lại / khởi động lại (định cấu hình mặc định trong cài đặt)</description>
+		<description><![CDATA[Kiểm soát từ thanh trạng thái của bạn.
+ Thanh trạng thái trong kho iOS được cho là một trong những phần được sử dụng ít nhất của hệ điều hành.  Indy mang lại chức năng cho thanh trạng thái của bạn một cách rõ ràng, không phô trương.  Nhấn vào các phần tử thanh trạng thái nhất định để hiển thị các menu với thông tin hữu ích.  Các menu đó sau đó có thể được khai thác để hiển thị nhiều hơn nữa.  Một số menu cụ thể thậm chí có các tính năng đặc biệt có thể truy cập bằng cách nhấn và giữ! <br><br>
+ <b> Danh sách tính năng</b>
+ <br>• Menu thời gian</br>
+     • Menu hiển thị ngày hiện tại</br>
+     • Nhấn vào menu mở rộng để hiển thị lựa chọn của bạn về (a) ngày trong tuần hoặc (b) thành phố múi giờ hiện tại</br>
+ • Thanh nhà cung cấp dịch vụ / menu Nhãn nhà cung cấp dịch vụ</br>
+     • Menu hiển thị tên nhà cung cấp dịch vụ</br>
+     • Khi WiFi tắt, nhấn vào menu mở rộng sẽ hiển thị nút chuyển đổi WiFi</br>
+     • Nhấn và giữ sẽ hiển thị VPN được kết nối hiện tại (nếu có) và biểu tượng ứng dụng cho VPN. </br><br>
+ <b> Menu thanh tín hiệu WiFi</b><br><br>
+     • Menu hiển thị tên mạng WiFi được kết nối</br>
+     • Nhấn vào sẽ hiển thị chuyển đổi WiFi</br>
+     • Nhấn và giữ hiển thị chế độ xem lựa chọn WiFi của riêng trung tâm điều khiển<br><br>
+ <b> Menu pin</b><br><br>
+     • Menu hiển thị phần trăm pin hiện tại</br>
+     • Chạm vào hiển thị chế độ Nguồn điện thấp</br>
+     • Nhấn và giữ sẽ hiển thị lựa chọn của bạn về (a) thanh trượt khởi động lại / khởi động lại hoặc (b) tình trạng pin ước tính hiện tại của bạn (trong một vài điểm phần trăm)</br>
+ • Chọn menu của Indy để bật </br>
+ • Định cấu hình vị trí dọc của menu Indy dọc theo thanh trạng thái </br>
+ • Tăng thời lượng cần thiết để đăng ký các lần nhấn dài </br>
+ • Chọn độ mờ tối / sáng </br>
+ • Chọn văn bản đen / trắng </br>
+ • Bật / tắt hiệu ứng làm mờ toàn màn hình khi sử dụng thanh trượt Indy Power (tương tự như menu nguồn iOS gốc) </br>
+ • Nhấn vào thanh trượt nguồn để chuyển đổi giữa chế độ khởi động lại / khởi động lại (định cấu hình mặc định trong cài đặt)</br>]]>
 	</descriptionlist>
 <screenshots><screenshot><description></description><image>indy.png</image></screenshot><screenshot><description></description><image>indy1.png</image></screenshot><screenshot><description></description><image>indy2.png</image></screenshot><screenshot><description></description><image>indy3.png</image></screenshot></screenshots>
 	<changelog>
