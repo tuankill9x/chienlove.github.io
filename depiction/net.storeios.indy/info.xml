@@ -12,8 +12,8 @@
 	<descriptionlist>
 		<description><![CDATA[Kiểm soát từ thanh trạng thái của bạn.
  Thanh trạng thái trong kho iOS được cho là một trong những phần được sử dụng ít nhất của hệ điều hành.  Indy mang lại chức năng cho thanh trạng thái của bạn một cách rõ ràng, không phô trương.  Nhấn vào các phần tử thanh trạng thái nhất định để hiển thị các menu với thông tin hữu ích.  Các menu đó sau đó có thể được khai thác để hiển thị nhiều hơn nữa.  Một số menu cụ thể thậm chí có các tính năng đặc biệt có thể truy cập bằng cách nhấn và giữ! <br><br>
- <b> Danh sách tính năng</b>
- <br>• Menu thời gian</br>
+ <b> Danh sách tính năng</b><br><br> 
+     • Menu thời gian</br>
      • Menu hiển thị ngày hiện tại</br>
      • Nhấn vào menu mở rộng để hiển thị lựa chọn của bạn về (a) ngày trong tuần hoặc (b) thành phố múi giờ hiện tại</br>
  • Thanh nhà cung cấp dịch vụ / menu Nhãn nhà cung cấp dịch vụ</br>
