@@ -79,16 +79,13 @@ Section: Tweaks
 Maintainer: Chienlove
 Pre-Depends: firmware (>= 12.0)
 Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
-Replaces: com.ichitaso.batteryx
 Filename: ./debs/net.storeios.batteryx_0.0.4_iphoneos-arm.deb
-Size: 67646
-MD5sum: 354d6ee93789fababd41286563238783
-SHA1: 312a5e1921a40dccc60b24cc44d2f46894ded491
-SHA256: 66d7467f681f52e07745f14a962697e2096243623ed63bbd566100aa327dc7a0
-SHA512: 0aa1d23f9118c4001e3da381389f6dc5298ae840252b694924f09c21bf6d03a4cd3765a9414d79bee886acf70455f24bf1f759aff3430b3819d76e8decd6ad96
+Size: 67514
+MD5sum: d76511cad415ea7610e4169409dffe86
+SHA1: f7d641b68c09fe16808370e8bd1a76d64a427f7b
+SHA256: 057996e3e2bd8fe5ae9338dc0ebc77ac58c3615734bf775eb207ba2855dcfd27
+SHA512: ef4468bdfa150f2d285d8cc845b802b3c2f9fce8e8f09917160330fd0279c23c17354ee7863a14c998b0f693dc0b741b096eb5a8b54ef66a8754f570d6ac919e
 Description: Hiển thị phần trăm pin cho các dòng iPhone X
-Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: ichitaso <willfeeltips+btx@gmail.com>
 Name: BatteryPercentageX
 dev: ichitaso
