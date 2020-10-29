@@ -59,16 +59,16 @@ Package: net.storeios.appshacks
 Architecture: iphoneos-arm
 Version: 4.2
 Section: Tweaks
-Maintainer: hmodei96
+Maintainer: Chienlove
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/net.storeios.appshacks_4.2_iphoneos-arm.deb
-Size: 3130526
-MD5sum: 9fea869ca6eb8074983fefae89b27d18
-SHA1: 0459dba8ca9319409fa972ba2eeec5f95cbd6b0e
-SHA256: 306c75aee067a74b06f38615bedd9145e1a32f473374d9bf00188393fa6e4a20
-SHA512: 7ed6b78640effcadd87a12bfd00e9acadf7771d82be2198cfb42b7409362b96827c20b94225908a3b6ced3d95899e6479a3d34a3f0ef3dceea2b1fd55cd3f9a4
+Size: 3132028
+MD5sum: 21f066ca7e62611a841c6882825b162e
+SHA1: 6fdbf97f295abd949c483aea32fd5f02353e4ae3
+SHA256: 94df402cbfdcf76a82787642856ed5b81ce9547265b7dc3eb24abdb2e3eb1083
+SHA512: f592d2c9003927925188f504eceedfbdb0db787b8a45fe4994e86ac258b0a61d42fe32195c4ff2d84eb7b599126ed5d504cb5d18a41747d2d8f092b0fc2f3c4e
 Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
-Name: Apps Hacks
+Name: Apps Hacks VH
 Author: hmodei96
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
 
