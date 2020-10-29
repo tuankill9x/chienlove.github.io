@@ -3,7 +3,18 @@
 	<name>Battsafe VH</name>
 	<version>1.1.2</version>
 	<compatibility>
-		<firmware>
+		<firmware><![CDATA[<div class="gooWidget google-ad-leaderboard">
+                 <div class="advertisement-text">Advertisement</div>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ads download -->
+<ins class="adsbygoogle adslot"
+     style="display:inline-block"
+     data-ad-client="ca-pub-3905625903416797"
+     data-ad-slot="5160182988"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+ </div>]]>
 			<miniOS>13.0</miniOS>
           <maxiOS>13.5</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
