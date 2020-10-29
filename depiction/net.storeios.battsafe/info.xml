@@ -24,17 +24,18 @@
 </script>	Kiểm soát mức độ sạc pin. <b>BattSafe</b> cho phép bạn kiểm soát mức phần trăm pin sẽ ngừng sạc. Dừng sạc ở % pin được chỉ định. Chỉ tương thích với iPhone chạy iOS 13+.  Không tương thích với iPad.]]></description>
 	</descriptionlist>
 	<screenshots></screenshots>
-	<changelog><change><![CDATA[<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Ads appcuios 01 -->
-<ins class="adsbygoogle"
-     style="display:block"
+	<changelog><change><![CDATA[<div class="gooWidget google-ad-leaderboard">
+                 <div class="advertisement-text">Advertisement</div>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ads download -->
+    <ins class="adsbygoogle adslot"
+     style="display:inline-block"
      data-ad-client="ca-pub-3905625903416797"
-     data-ad-slot="4575220124"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="5160182988"></ins>
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>Đã sửa lỗi không hoạt động trên một số thiết bị]]></change>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+ </div>Đã sửa lỗi không hoạt động trên một số thiết bị]]></change>
 	</changelog>
 	<links></links>
 </package>
