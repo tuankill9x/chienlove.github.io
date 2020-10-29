@@ -25,8 +25,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog><change>Đã sửa lỗi không hoạt động trên một số thiết bị</change>
-	</changelog>
-  <![CDATA[<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<![CDATA[<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Ads appcuios 01 -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -37,5 +36,6 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>]]
+	</changelog>
 	<links></links>
 </package>
