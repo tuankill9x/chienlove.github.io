@@ -1,25 +1,3 @@
-Package: com.ichitaso.batteryx
-Architecture: iphoneos-arm
-Version: 0.0.4
-Section: Tweaks
-Maintainer: Chienlove
-Pre-Depends: firmware (>= 12.0)
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
-Replaces: com.ichitaso.batteryx
-Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
-Size: 67638
-MD5sum: ba8bfcbe0093b5829f83d289db5a1b0d
-SHA1: 0114a904a2cf3191e689a68345b44e258576ee06
-SHA256: 31b59c40ec76d791028ade72cfad3c28f2722ddaed2db042a075654dc95a4a77
-SHA512: ae7a52321fff271835d6f62f95d65af98dd6265103f8406364f8fbae7766f8503636b2478ae8baa9962cbaa25f6506962716e4418c08129a724d1d5e53668f25
-Description: Hiển thị phần trăm pin cho các dòng iPhone X
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Author: ichitaso <willfeeltips+btx@gmail.com>
-Name: BatteryPercentageX
-dev: ichitaso
-Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
-
 Package: net.storeios.VideoAdsSpeed
 Architecture: iphoneos-arm
 Version: 1.0.4-3
@@ -93,6 +71,28 @@ Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụn
 Name: Apps Hacks VH
 Author: hmodei96
 Depiction: https://chienlove.github.io/depiction/?p=net.storeios.appshacks
+
+Package: net.storeios.batteryx
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Chienlove
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/net.storeios.batteryx_0.0.4_iphoneos-arm.deb
+Size: 67646
+MD5sum: 354d6ee93789fababd41286563238783
+SHA1: 312a5e1921a40dccc60b24cc44d2f46894ded491
+SHA256: 66d7467f681f52e07745f14a962697e2096243623ed63bbd566100aa327dc7a0
+SHA512: 0aa1d23f9118c4001e3da381389f6dc5298ae840252b694924f09c21bf6d03a4cd3765a9414d79bee886acf70455f24bf1f759aff3430b3819d76e8decd6ad96
+Description: Hiển thị phần trăm pin cho các dòng iPhone X
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Name: BatteryPercentageX
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
 
 Package: net.storeios.battsafe
 Architecture: iphoneos-arm
