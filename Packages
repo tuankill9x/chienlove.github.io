@@ -62,11 +62,11 @@ Section: Tweaks
 Maintainer: Chienlove
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/net.storeios.appshacks_4.2_iphoneos-arm.deb
-Size: 3132028
-MD5sum: 21f066ca7e62611a841c6882825b162e
-SHA1: 6fdbf97f295abd949c483aea32fd5f02353e4ae3
-SHA256: 94df402cbfdcf76a82787642856ed5b81ce9547265b7dc3eb24abdb2e3eb1083
-SHA512: f592d2c9003927925188f504eceedfbdb0db787b8a45fe4994e86ac258b0a61d42fe32195c4ff2d84eb7b599126ed5d504cb5d18a41747d2d8f092b0fc2f3c4e
+Size: 3132152
+MD5sum: 5d7cf7e7ae96875b85042ba31f07df9c
+SHA1: ae2775cde0e8733479b893c36f68800929027a7d
+SHA256: eff70551ddb640b9c3c7ea3d4348dfa8187a9567b0c964398dca0c0c1232b913
+SHA512: c64331fd82a7c831e16593b7668c414f03fa118a602351cec89154b12ed8b1a8a27798944813c991861aba93ddb65944771bb437c6ef2fa421d8ec5bb08d6bb6
 Description: Tinh chỉnh hack tính năng pro của tất cả các ứng dụng thiết kế, chỉnh sửa video, game,Các ứng dụng VPN...như (kinemaster, inShot, Enlight Pixaloop,...)
 Name: Apps Hacks VH
 Author: hmodei96
