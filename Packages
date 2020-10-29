@@ -1,3 +1,25 @@
+Package: com.ichitaso.batteryx
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Tweaks
+Maintainer: Chienlove
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.spark.batterypercentx, com.dpkg.batterypercent12, com.dpkg.batterypercenta12, com.dpkg.arkrome, com.dpkg.arkromepro, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex, com.blakeboxberger.bazzi2, com.neinzedd9.bazzi
+Replaces: com.ichitaso.batteryx
+Filename: ./debs/com.ichitaso.batteryx_0.0.4_iphoneos-arm.deb
+Size: 67638
+MD5sum: ba8bfcbe0093b5829f83d289db5a1b0d
+SHA1: 0114a904a2cf3191e689a68345b44e258576ee06
+SHA256: 31b59c40ec76d791028ade72cfad3c28f2722ddaed2db042a075654dc95a4a77
+SHA512: ae7a52321fff271835d6f62f95d65af98dd6265103f8406364f8fbae7766f8503636b2478ae8baa9962cbaa25f6506962716e4418c08129a724d1d5e53668f25
+Description: Hiển thị phần trăm pin cho các dòng iPhone X
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+btx@gmail.com>
+Name: BatteryPercentageX
+dev: ichitaso
+Icon: file:///Library/PreferenceBundles/BatteryPercentageX.bundle/icon@2x.png
+
 Package: net.storeios.VideoAdsSpeed
 Architecture: iphoneos-arm
 Version: 1.0.4-3
